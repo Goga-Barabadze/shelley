@@ -1,4 +1,3 @@
-
 # Shelley
 
 ## Introduction
@@ -17,7 +16,7 @@ These are the most fundamental rules for the platform:
 * Critiques trigger recursive adjustments to dependent arguments.
 * Sources must be publicly available.
 
-``` mermaid
+```mermaid
 graph LR;
 	A([Claim A]) --> B
 	C([Claim C]) --> B
