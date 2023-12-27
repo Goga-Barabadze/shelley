@@ -6,6 +6,7 @@ export default defineConfig({
 
   base: "/shelley/",
 
+  appearance: "force-dark",
   themeConfig: {
     sidebar: [
       { text: 'Getting Started', link: "/" },
