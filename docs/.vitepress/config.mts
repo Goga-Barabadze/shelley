@@ -6,6 +6,11 @@ export default defineConfig({
 
   base: "/shelley/",
   lastUpdated: true,
+  cleanUrls: true,
+  lang: "en-US",
+
+  // When set to `localhostLinks`, the build will fail on dead links, but won't check localhost links.
+  ignoreDeadLinks: "localhostLinks",
 
   appearance: "force-dark",
   themeConfig: {
