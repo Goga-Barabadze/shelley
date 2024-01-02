@@ -7,6 +7,7 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
+    "clean": "rimraf ./node_modules/ .vitepress/cache .vitepress/dist",
     "test": ""
   },
   "keywords": [],
