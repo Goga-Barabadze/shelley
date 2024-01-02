@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "pnpm -r --parallel run dev",
     "clean": "pnpm -r --parallel run clean",
-    "test": "pnpm -r --parallel run test"
+    "test": "pnpm -r --parallel run test",
+    "ri": "pnpm -r i"
   },
   "packageManager": "pnpm@8.12.0",
   "devDependencies": {
