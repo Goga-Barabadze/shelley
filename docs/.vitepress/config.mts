@@ -5,6 +5,7 @@ export default defineConfig({
   description: "crowd-sourced knowledge graphs",
 
   base: "/shelley/",
+  lastUpdated: true,
 
   appearance: "force-dark",
   themeConfig: {
