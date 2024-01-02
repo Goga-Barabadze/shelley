@@ -6,12 +6,14 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "test": ""
   },
   "keywords": [],
   "author": "Goga Barabadze",
   "license": "ISC",
   "devDependencies": {
+    "@vue/devtools-api": "^7.0.3",
     "vitepress": "1.0.0-rc.34"
   },
   "packageManager": "pnpm@8.13.1"
