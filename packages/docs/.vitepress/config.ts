@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { MermaidRenderer } from './mermaid/mermaid-markdown';
 
 export default defineConfig({
   title: "shelley",
@@ -15,18 +16,39 @@ export default defineConfig({
   srcDir: "../../docs",
 
   appearance: "force-dark",
-  
+
   themeConfig: {
     sidebar: [
-      { text: 'Getting Started', link: "/" },
+      {
+        text: "Concept",
+        items: [
+          {
+            text: 'Examples',
+            collapsed: true,
+            items: [
+              {
+                text: "The Earth Is Round",
+                link: "./concept/examples/the-earth-is-round.md"
+              }
+              ]
+          }
+        ],
+      }
     ],
 
     socialLinks: [ { icon: 'github', link: 'https://github.com/Goga-Barabadze/shelley' } ]
   },
 
+  markdown: {
+    config: async (md) => {
+      await MermaidRenderer(md);
+    },
+  },
+
   vite: {
     server: {
       fs: {
+        // Better solved at https://github.com/mermaid-js/mermaid/blob/60280361b0c89a96f6d377e34f7f5cd32b52c775/packages/mermaid/src/docs/vite.config.ts#L80
         allow: ["../../.."]
       }
     },

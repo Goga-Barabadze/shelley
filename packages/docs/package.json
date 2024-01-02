@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
@@ -14,7 +15,10 @@
   "author": "Goga Barabadze",
   "license": "ISC",
   "devDependencies": {
+    "@mermaid-js/mermaid-zenuml": "^0.1.2",
     "@vue/devtools-api": "^7.0.3",
+    "@vue/tsconfig": "^0.5.1",
+    "mermaid": "^10.6.1",
     "vitepress": "1.0.0-rc.34"
   },
   "packageManager": "pnpm@8.13.1"

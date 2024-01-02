@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "pnpm -r --parallel run dev",
+    "build": "pnpm -r --parallel run build",
     "clean": "pnpm -r --parallel run clean",
     "test": "pnpm -r --parallel run test",
     "ri": "pnpm -r i"
