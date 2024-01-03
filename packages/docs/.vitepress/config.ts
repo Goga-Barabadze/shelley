@@ -22,15 +22,17 @@ export default defineConfig({
       {
         text: "Concept",
         items: [
+          { text: "Rules", link: "/concept/rules.md" },
+          { text: "Scoring", link: "/concept/scoring.md" },
           {
             text: 'Examples',
             collapsed: true,
             items: [
               {
                 text: "The Earth Is Round",
-                link: "./concept/examples/the-earth-is-round.md"
+                link: "/concept/examples/the-earth-is-round.md"
               }
-              ]
+            ]
           }
         ],
       }
