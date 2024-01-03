@@ -35,6 +35,12 @@ export default defineConfig({
             ]
           }
         ],
+      },
+      {
+        text: "Implementation",
+        items: [
+          { text: "Data Structure", link: "/implementation/data-structure.md" },
+        ]
       }
     ],
 
