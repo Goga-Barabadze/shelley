@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { MermaidRenderer } from './mermaid/mermaid-markdown';
+import { MermaidRenderer } from './mermaid';
 
 export default defineConfig({
   title: "shelley",
