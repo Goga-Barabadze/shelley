@@ -1,17 +1,23 @@
 # The Earth Is Round
 
 ## Definitions
+
 * `The Earth`: the planet we live on
 * `Round`: Being such that every part of the surface or the circumference is equidistant from the center
 
 ## Claims
+
 ### The Earth Is Rougly An Oblate Spheroid
+
 #### Definitions
+
 * `Rougly`: unevenly; harshly; rudely; severely; austerely.
 * `Oblate Spheroid`: It is like a sphere squashed from the top so the circumference around the poles is less than the circumference around the equator.
 
 #### Explanation
+
 I used the word "roughly" because we could play the "I have a more precise definition"-game infinetly and would at some points be listing the exact atoms of the earth. I think the proposed claim should suffice for most circumstances.
 
 #### Sources
-> “Earth is not a perfect sphere. Its shape is an oblate spheroid. This just means that it flattens at the poles and widens out at the equator.” Earth Row (https://earthhow.com/shape-of-the-earth/)
+
+> “Earth is not a perfect sphere. Its shape is an oblate spheroid. This just means that it flattens at the poles and widens out at the equator.” Earth Row (<https://earthhow.com/shape-of-the-earth/>)
