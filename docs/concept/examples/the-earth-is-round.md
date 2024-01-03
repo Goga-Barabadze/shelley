@@ -3,7 +3,7 @@
 ## Definitions
 
 * `The Earth`: the planet we live on
-* `Round`: Being such that every part of the surface or the circumference is equidistant from the center
+* `Round`: being such that every part of the surface or the circumference is equidistant from the center
 
 ## Claims
 
@@ -12,7 +12,7 @@
 #### Definitions
 
 * `Rougly`: unevenly; harshly; rudely; severely; austerely.
-* `Oblate Spheroid`: It is like a sphere squashed from the top so the circumference around the poles is less than the circumference around the equator.
+* `Oblate Spheroid`: a sphere squashed from the top so the circumference around the poles is less than the circumference around the equator.
 
 #### Explanation
 
