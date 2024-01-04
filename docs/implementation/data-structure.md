@@ -25,6 +25,7 @@ erDiagram
         uuid uuid PK
         string doi UK
         string type
+        string citation
         Source[] sources
     }
 
@@ -36,21 +37,14 @@ erDiagram
         string definition PK
     }
 
-    HISTORY_ENTRY {
-        uuid uuid PK
-        uuid created_by
-        datetime created_at
-        string change_type
-        string changed_field
-        string old_value
-        string new_value
-    }
+    HISTORY_ENTRY {}
 
-    USER ||--|| HISTORY_ENTRY : something
-    USER ||--|| CLAIM : something
-    CLAIM ||--|| HISTORY_ENTRY : something
-    SOURCE ||--|| HISTORY_ENTRY : something
-    CLAIM ||--|| DEFINITION : something
-    CLAIM ||--|| CLAIM : something
-    CLAIM ||--|| SOURCE : something
+    USER }o--|| HISTORY_ENTRY : "archived by"
+    USER }o--|| CLAIM : created
+    CLAIM }o--|| HISTORY_ENTRY : "archived by"
+    SOURCE }o--|| HISTORY_ENTRY : "archived by"
+    CLAIM }o--o{ DEFINITION : "defined by"
+    CLAIM }o--o{ CLAIM : "referenced by"
+    CLAIM }o--o{ SOURCE : "backed by"
+    SOURCE }o--o{ SOURCE : "backed by"
 ```
