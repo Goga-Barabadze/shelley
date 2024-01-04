@@ -15,7 +15,8 @@
     "lint:markdown:fix": "npx markdownlint-cli . --fix",
     "lint:es": "eslint . **/*.ts",
     "lint:es:fix": "eslint . **/*.ts --fix",
-    "ri": "pnpm -r i"
+    "ri": "pnpm -r i",
+    "preinstall": "npx only-allow pnpm"
   },
   "packageManager": "pnpm@8.12.0",
   "devDependencies": {
