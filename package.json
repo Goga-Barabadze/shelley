@@ -2,10 +2,11 @@
   "name": "shelley",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@8.12.0",
   "scripts": {
     "dev": "pnpm -r --parallel --filter ./packages/** run dev",
     "build": "pnpm -r --parallel --filter ./packages/** run build",
-    "clean": "pnpm -r --parallel --filter ./packages/** run clean && rimraf ./node_modules ",
+    "clean": "pnpm -r --parallel --filter ./packages/** run clean && rimraf ./node_modules",
     "test": "pnpm -r --parallel --filter ./packages/** run test",
     "lint": "pnpm lint:markdown && pnpm lint:es && pnpm lint:r",
     "lint:fix": "pnpm lint:markdown:fix && pnpm lint:es:fix && pnpm lint:r:fix",
@@ -18,12 +19,15 @@
     "ri": "pnpm -r i",
     "preinstall": "npx only-allow pnpm"
   },
-  "packageManager": "pnpm@8.12.0",
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "eslint": "^8.56.0",
     "markdownlint-cli": "^0.38.0",
-    "rimraf": "^5.0.5"
+    "rimraf": "^5.0.5",
+    "simple-git-hooks": "^2.9.0"
   }
 }
