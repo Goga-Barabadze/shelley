@@ -1,0 +1,4 @@
+!.*
+
+packages/docs/.vitepress/dist/
+packages/docs/.vitepress/cache/

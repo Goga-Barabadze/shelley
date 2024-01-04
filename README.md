@@ -10,11 +10,11 @@ Arguments are **proposed and rated by the community**. Because they themselves h
 
 These are the most fundamental rules for the platform:
 
-* Arguments are crowd-sourced by the community.
-* Every argument must either reference another argument or an external source.
-* Arguments are evaluated by a transparent formula.
-* Critiques trigger recursive adjustments to dependent arguments.
-* Sources must be publicly available.
+- Arguments are crowd-sourced by the community.
+- Every argument must either reference another argument or an external source.
+- Arguments are evaluated by a transparent formula.
+- Critiques trigger recursive adjustments to dependent arguments.
+- Sources must be publicly available.
 
 ```mermaid
 graph LR;
@@ -34,10 +34,10 @@ graph LR;
 
 ## Philosophy
 
-* **Accuracy**: The platform must encourage the users psychologically and technically to make the most objective arguments possible and to cite relevant sources.
-* **Accessibility**: There shall never be any kind of paywall. Anyone with the priviledge to access the internet should have access to all content created on this platform. On our side it means to design a system which is compliant to the *WC3 Acessibility Standards*, enable features so non-English speakers can participate in the key parts of this platform (technical development, conceptual development, usage of the platform and content moderation), and most importantly: never hide content to non-payers.
-* **Transparency**: Every decision made for the platform on a meta-level or in the context of the content being created, altered or deleted must be tracable back to *"Why was this change made?"*, *"When was it made?"*, *"Who made it?" and "Who approved it?".*
-* **Independence**: This platform must be independent of any centrally organized body of decision-makers. E.g.: companies or governments. Donations must be handled anonymously and will give nobody the right to alter the platform with more power than anyone else has, or see any more than anybody else can.
+- **Accuracy**: The platform must encourage the users psychologically and technically to make the most objective arguments possible and to cite relevant sources.
+- **Accessibility**: There shall never be any kind of paywall. Anyone with the priviledge to access the internet should have access to all content created on this platform. On our side it means to design a system which is compliant to the _WC3 Acessibility Standards_, enable features so non-English speakers can participate in the key parts of this platform (technical development, conceptual development, usage of the platform and content moderation), and most importantly: never hide content to non-payers.
+- **Transparency**: Every decision made for the platform on a meta-level or in the context of the content being created, altered or deleted must be tracable back to _"Why was this change made?"_, _"When was it made?"_, _"Who made it?" and "Who approved it?"._
+- **Independence**: This platform must be independent of any centrally organized body of decision-makers. E.g.: companies or governments. Donations must be handled anonymously and will give nobody the right to alter the platform with more power than anyone else has, or see any more than anybody else can.
 
 ## Contribution
 

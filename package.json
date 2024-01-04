@@ -3,20 +3,26 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "pnpm -r --parallel run dev",
-    "build": "pnpm -r --parallel run build",
-    "clean": "pnpm -r --parallel run clean",
-    "test": "pnpm -r --parallel run test",
-    "lint": "npm-run-all lint:markdown",
-    "lint:fix": "npm-run-all lint:markdown:fix",
+    "dev": "pnpm -r --parallel --filter ./packages/** run dev",
+    "build": "pnpm -r --parallel --filter ./packages/** run build",
+    "clean": "pnpm -r --parallel --filter ./packages/** run clean && rimraf ./node_modules ",
+    "test": "pnpm -r --parallel --filter ./packages/** run test",
+    "lint": "pnpm lint:markdown && pnpm lint:es && pnpm lint:r",
+    "lint:fix": "pnpm lint:markdown:fix && pnpm lint:es:fix && pnpm lint:r:fix",
+    "lint:r": "pnpm -r --parallel --filter ./packages/** run lint",
+    "lint:r:fix": "pnpm -r --parallel --filter ./packages/** run lint:fix",
     "lint:markdown": "npx markdownlint-cli .",
     "lint:markdown:fix": "npx markdownlint-cli . --fix",
+    "lint:es": "eslint . **/*.ts",
+    "lint:es:fix": "eslint . **/*.ts --fix",
     "ri": "pnpm -r i"
   },
   "packageManager": "pnpm@8.12.0",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.17.0",
+    "@typescript-eslint/parser": "^6.17.0",
+    "eslint": "^8.56.0",
     "markdownlint-cli": "^0.38.0",
-    "npm-run-all": "^4.1.5",
     "rimraf": "^5.0.5"
   }
 }

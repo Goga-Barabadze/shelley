@@ -2,8 +2,8 @@
 
 ## Definitions
 
-* `The Earth`: the planet we live on
-* `Round`: being such that every part of the surface or the circumference is equidistant from the center
+- `The Earth`: the planet we live on
+- `Round`: being such that every part of the surface or the circumference is equidistant from the center
 
 ## Claims
 
@@ -11,8 +11,8 @@
 
 #### Definitions
 
-* `Rougly`: unevenly; harshly; rudely; severely; austerely.
-* `Oblate Spheroid`: a sphere squashed from the top so the circumference around the poles is less than the circumference around the equator.
+- `Rougly`: unevenly; harshly; rudely; severely; austerely.
+- `Oblate Spheroid`: a sphere squashed from the top so the circumference around the poles is less than the circumference around the equator.
 
 #### Explanation
 
