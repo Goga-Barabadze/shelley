@@ -5,10 +5,8 @@ erDiagram
     USER {
         uuid uuid PK
         datetime created_at
-
         string first_name
         string last_name
-
         string email
         string password_hash
         string hash_function
@@ -16,10 +14,8 @@ erDiagram
 
     CLAIM {
         uuid uuid PK
-
         string title
         string explanation
-
         Claim[] claims
         Source[] sources
         Definition[] definitions
@@ -27,13 +23,13 @@ erDiagram
 
     SOURCE {
         uuid uuid PK
-        string doi
+        string doi UK
+        string type
         Source[] sources
     }
 
     DEFINITION {
         uuid created_by_user FK
-
         string language PK
         string dialect UK
         string defined_word PK
@@ -44,7 +40,6 @@ erDiagram
         uuid uuid PK
         uuid created_by
         datetime created_at
-
         string change_type
         string changed_field
         string old_value
@@ -52,13 +47,10 @@ erDiagram
     }
 
     USER ||--|| HISTORY_ENTRY : something
+    USER ||--|| CLAIM : something
     CLAIM ||--|| HISTORY_ENTRY : something
     SOURCE ||--|| HISTORY_ENTRY : something
-
     CLAIM ||--|| DEFINITION : something
-
     CLAIM ||--|| CLAIM : something
     CLAIM ||--|| SOURCE : something
-
-    USER ||--|| CLAIM : something
 ```
