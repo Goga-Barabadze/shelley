@@ -15,6 +15,7 @@ erDiagram
     CLAIM {
         uuid uuid PK
         string title
+        string shortened_title
         string explanation
         Claim[] claims
         Source[] sources
