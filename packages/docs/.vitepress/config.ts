@@ -32,6 +32,10 @@ export default defineConfig({
 								text: "The Earth Is Round",
 								link: "/concept/examples/the-earth-is-round.md",
 							},
+							{
+								text: "Cannabis Should Be Decriminlized for Adults",
+								link: "/concept/examples/cannabis-should-be-decriminilized-for-adults.md",
+							},
 						],
 					},
 				],
