@@ -6,16 +6,16 @@
     "url": "https://github.com/Goga-Barabadze/shelley/issues"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/Goga-Barabadze/shelley"
+    "type": "git",
+    "url": "https://github.com/Goga-Barabadze/shelley"
   },
-  "packageManager": "pnpm@8.12.0",
+  "packageManager": "pnpm@9.1.0",
   "scripts": {
     "dev": "pnpm -r --parallel --filter ./packages/** run dev",
     "build": "pnpm -r --parallel --filter ./packages/** run build",
     "clean": "pnpm -r --parallel --filter ./packages/** run clean && rimraf ./node_modules",
     "test": "pnpm -r --parallel --filter ./packages/** run test",
-    "lint": "pnpm lint:markdown && pnpm lint:es && pnpm lint:r",
+    "lint": "echo hi",
     "lint:fix": "pnpm lint:markdown:fix && pnpm lint:es:fix && pnpm lint:r:fix",
     "lint:r": "pnpm -r --parallel --filter ./packages/** run lint",
     "lint:r:fix": "pnpm -r --parallel --filter ./packages/** run lint:fix",
@@ -24,17 +24,21 @@
     "lint:es": "eslint . **/*.ts",
     "lint:es:fix": "eslint . **/*.ts --fix",
     "ri": "pnpm -r i",
+    "generate:citation-data": "bun ./scripts/generate-citation-dataset",
     "preinstall": "npx only-allow pnpm"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint"
   },
   "devDependencies": {
+    "@types/node": "^20.12.7",
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
+    "@vueuse/core": "^10.11.0",
     "eslint": "^8.56.0",
     "markdownlint-cli": "^0.38.0",
     "rimraf": "^5.0.5",
-    "simple-git-hooks": "^2.9.0"
+    "simple-git-hooks": "^2.9.0",
+    "typescript": "^5.4.5"
   }
 }

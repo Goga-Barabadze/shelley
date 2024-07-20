@@ -1,0 +1,34 @@
+components:
+  schemas:
+    ReviewType:
+      type: string
+      description: The reason why the claim is being reviewed.
+      enum:
+        - AddClaim
+        - EditClaim
+        - ReportedUser
+        - ReportedComment
+    
+    ReviewInitiator:
+      type: string
+      description: Gives insight into who started the review process.
+      enum:
+        - RoutineReport
+        - AutoReport
+        - ManualReport
+    
+    ManualReportReason:
+      type: string
+      description: If review was initiated by user(s), what reason did they provide.
+      enum:
+        - BadSource
+        - Bias
+        - Fallacy
+        - Other
+    
+    ReportedUserReason:
+      type: string
+      descriptin: Reasons why a user can be reported and they should be banned if true.
+      enum:
+        - OffensiveLanguage
+        - Advertisement

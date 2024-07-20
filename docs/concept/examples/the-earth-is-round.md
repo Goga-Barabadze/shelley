@@ -7,16 +7,16 @@
 
 ## Claims
 
-### The Earth Is Rougly An Oblate Spheroid
+### The Earth Is Roughly An Oblate Spheroid
 
 #### Definitions
 
-- `Rougly`: unevenly; harshly; rudely; severely; austerely.
+- `Roughly`: unevenly; harshly; rudely; severely; austerely.
 - `Oblate Spheroid`: a sphere squashed from the top so the circumference around the poles is less than the circumference around the equator.
 
 #### Explanation
 
-I used the word "roughly" because we could play the "I have a more precise definition"-game infinetly and would at some points be listing the exact atoms of the earth. I think the proposed claim should suffice for most circumstances.
+I used the word "roughly" because we could play the "I have a more precise definition"-game infinetly and would at some point be listing the exact atoms of the earth. I think the proposed claim should suffice for most circumstances.
 
 #### Sources
 

@@ -1,0 +1,1680 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpse20
+Psychology & Sexuality
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rpse20
+Asexual identity development and internalisation:
+a scoping review of quantitative and qualitative
+evidence
+Sinéad Kelleher, Mike Murphy & Xin Su
+To cite this article:  Sinéad Kelleher, Mike Murphy & Xin Su (2023) Asexual identity
+development and internalisation: a scoping review of quantitative and qualitative evidence,
+Psychology & Sexuality, 14:1, 45-72, DOI: 10.1080/19419899.2022.2057867
+To link to this article:  https://doi.org/10.1080/19419899.2022.2057867
+Published online: 03 Apr 2022.
+Submit your article to this journal 
+Article views: 1035
+View related articles 
+View Crossmark data
+Citing articles: 4 View citing articles 
+
+RESEARCH ARTICLE
+Asexual identity development and internalisation: a scoping 
+review of quantitative and qualitative evidence
+Sinéad Kelleher, Mike Murphy
+ and Xin Su
+School of Applied Psychology, University College Cork, Cork Ireland
+ABSTRACT
+Individuals who do not experience sexual attraction and adopt an asexual 
+identity are the focus of increasing amounts of psychological and socio -
+logical research. A scoping review was conducted to identify current 
+knowledge of asexuality and components of asexual identity develop -
+ment and internalisation that emerge within literature. Findings from 29 
+articles were analysed and formed into themes that best describe the key 
+events and sense-making processes underlying identity development, 
+such as coming-out, the reactions of others and how asexuals interpret 
+their identity. These findings indicate that heteronormativity and compul -
+sory sexuality play a role in how individuals internalise their asexuality, 
+which in turn, shapes their identity development. Despite this, consider -
+able gaps in the literature concerning partner relationships, stigmatisa -
+tion, isolation and the impact that this has on asexuals’ wellbeing 
+continue to exist. Thus, future research should examine the challenges 
+faced by asexuals such as identity development within a heteronormative 
+and allonormative context and the resources available to ameliorate 
+them.ARTICLE HISTORY 
+Received 19 April 2021  
+Accepted 18 March 2022 
+KEYWORDS 
+asexuality; identity; sexuality; 
+internalisation; challenges
+Personal identification and philosophical orientation
+The authors acknowledge and accept that asexuality is valid and real. This research was conducted 
+with the aim to identify current knowledge of asexuality and components of asexual identity 
+development and internalisation that emerge within literature. In doing this, we seek to accurately 
+and sensitively relay information surrounding asexuality and enrich our understanding of sexuality 
+and the philosophy behind sex and sexual attraction. We believe that this research contributes 
+towards a growing awareness and understanding of asexuality and may help to reverse myths and 
+negative assumptions surrounding asexuality.
+We believe that asexual experiences are diverse and accept the common definition of asexuality 
+as a lack or absence of sexual attraction. We acknowledge that asexuality is not a behaviour, a form of 
+celibacy or sexual desire disorder. We are also aware that many asexual people have romantic 
+relationships and may engage in sexual activity. We recognise that the dismissal or stigmatisation 
+of asexuality within everyday life may contribute towards psychological distress among asexual 
+people and effect their identity development. We believe that our understanding of sex and sexuality 
+can be enriched by studying asexuality.
+Asexuality as a sexual identity has increased in profile partly due to the emergence of social 
+media outlets, the development of the Asexuality Visibility and Education Network (AVEN) and 
+a growth in academic attention, beginning with Bogaert’s (2004 ) demographic analysis in which 
+a 1% prevalence rate of asexuality was recorded within a British sample (N > 18,000). According 
+CONTACT Sinéad Kelleher 
+ sinead.kelleher@ucc.ie 
+ School of Applied Psychology, University College Cork, Cork, Ireland.PSYCHOLOGY & SEXUALITY                              
+2023, VOL. 14, NO. 1, 45–72 
+https://doi.org/10.1080/19419899.2022.2057867
+© 2022 Informa UK Limited, trading as Taylor & Francis Group 
+to Cuthbert (2019 ), asexuality is becomingly increasingly recognised within non-heterosexual 
+communities, mainstream media and popular culture. Because of this, asexuality has since been 
+the focus of increasing amounts of psychological and sociological research (Mollet & Lackman, 
+2018 ).
+Definitional issues
+According to Laumann et al. (2000 ), researchers’ interest in sexuality can be categorised under three 
+separate headings – namely, behaviour, desire and identity. This can include the use of a description- 
+based approach to identifying a sexual orientation (i.e. sexual attraction/desire towards individuals of 
+the opposite or same sex), a behavioural approach (i.e. a lack of sexual behaviour), as well as self- 
+identification. Beginning with Storms’ (1980) two-dimensional model of sexual orientation, academic 
+literature has most frequently defined asexuality as a lack of sexual attraction or low sexual desire 
+(Bogaert, 2006 ; Brotto & Yule, 2017 ; DeLuzio Chasin, 2011 ). Although this definition is widely used 
+within literature (Prause & Graham, 2007 ), it is important to recognise that asexual individuals have 
+the potential for sexual arousal, can engage in sexual behaviours and be romantically attracted to 
+others (Bogaert, 2006 ). For example, some individuals may identify as asexual but still experience 
+sexual attraction or engage in sexual behaviour, while others may define their asexuality through 
+abstinence from sexual intercourse (Poston & Baumle, 2010 ). This in turn, indicates that asexuality 
+may exist along a spectrum, with many asexual individuals experiencing varying levels of sexual 
+attraction and varying attitudes towards sexual activity (Hammack et al., 2019 ). Moreover, when 
+defining asexuality within research, there is increasing interest in the role of sexual and romantic 
+dimensions among participants (Scherrer, 2008 ). Therefore, all criteria used to identify asexuality 
+within research will be accepted as relevant for the purpose of this review. This will better map the 
+use of a focused definition within research.
+The scope of current research
+Research into the area of asexuality has evolved following Bogaert’s (2004 ) initial study, with an 
+increasing focus on the experience of being asexual and associated psychological characteristics. 
+Prause and Graham (2007 ) initiated such investigation, through the comparison of both sexual and 
+self-identified asexual individuals and the features that distinguished both groups. Through this 
+investigation, Prause and Graham (2007 ) characterised asexuality as a lack of sexual desire directed 
+towards others, with many participants reporting few to no sexual experiences. Their findings 
+prompted the development of further investigation that focused on the lived experiences of asexual 
+participants, and how this may allow us to better understand and define asexuality. In light of this, 
+research has focused largely on characteristics associated with asexuality, with some indicating 
+similarities between asexuality and other sexual minority identities (Scherrer, 2008 ). Specifically, 
+such investigations have focused on aspects of asexuality such as commonalities within the com -
+munity (Carrigan, 2011 ), coming-out processes (Robbins et al., 2016 ) and experiences of stigmatisa -
+tion and polarisation (Chasin, 2015 ). Through this, research has shown a higher prevalence of 
+interpersonal problems and mental health difficulties associated with asexual individuals (Yule 
+et al., 2013 ), with many attributing this to the effects of discrimination and negative coming-out 
+experiences (Lucassen et al., 2011 ). For example, MacInnis and Hodson (2012 , p. 738), reported anti- 
+asexual bias held towards asexuals that was ‘equivalent to, or even more extreme, than bias held 
+towards homosexuals and bisexuals’. These negative sentiments held towards asexuality and a lack 
+of acceptance from family, friends and professional misunderstandings (Chasin, 2015 ), appear to 
+influence asexuals’ self-concepts and the development of their asexual identities (McInroy et al., 
+2020 ). Thus, the process of integrating or internalising these sentiments into one’s own self-concept 
+is becoming increasingly studied among asexual individuals (Mitchell & Hunnicutt, 2019 ; Mollet, 
+2020 ; Scherrer, 2008 ).46
+ S. KELLEHER ET AL.
+Identity development
+According to Keniston (1968 ) and Marcia (1987 ), identity is a personally and socially meaningful 
+sense of one’s goals, beliefs, values and life roles, that is both organised and learned. Identity 
+development is considered a critical psychosocial task across the lifespan (Keniston, 1968 ; McLean, 
+Syed, McAdams et al., 2015 ) and is a constructed story of how an individual comes to be who they 
+currently are (McAdams & McLean, 2013 ). Identity is believed to develop at both intrapersonal and 
+interpersonal levels and comprises of individual, relational and collective identities that interact with 
+each other (Vignoles et al., 2011 ). Specifically, identity development may be considered the con-
+struction of an individuals’ self-conceptualisation (Sharma & Sharma, 2010 ) that is influenced by both 
+cultural and societal factors (Misra, 2007 ), and is largely studied to determine well-being (Thoits, 
+2013 ).
+Although identity development is considered to manifest during childhood and early adoles -
+cence (McLean, Syed, Fivush et al., 2015 ) it continues to develop and grow across adulthood and into 
+old age (Kroger, 2015 ). Thus, the development of an individual’s identity can be considered an 
+important lifelong process. According to Stryker (1980 ), identity involves the integration of ‘blocks’ 
+which together, build a unified self-concept that enables a person to function with coherence. As 
+such, the development of a positive and well understood identity involves building self-esteem, 
+exploring self-definition, reducing self-discrepancies and fostering role formation and achievement 
+(Tsang et al., 2012 ). Because of this, research is becoming increasingly concerned with recognising 
+the complex and multifaceted nature of sexual identity development among sexual-minority indi-
+viduals and specifically, asexual individuals (Morgan, 2013 ).
+Asexual identity development
+Sexuality is considered an aspect of one’s identity that can shape their entire character (Kietzer, 2015 ) 
+and is believed to be affected by both internal and external factors (Mayer et al., 2014 ). Sexual 
+identity can be conceptualised as involving the cognitive and emotional understanding of an 
+individual’s sexuality, including sexual attractions, desires, behaviours, values and relationships 
+(Morgan, 2013 ; Savin-Williams, 2011 ). This understanding assists in forming a personally and socially 
+meaningful sense of one’s sexual identity (Morgan, 2013 ) and involves negotiating feelings of 
+instability and transitions, as well as heightened self-focus and identity exploration (Arnett, 2007 ). 
+However, while sexual identity development for non-heterosexual individuals can be an opportunity 
+for exploration and self-discovery, it can simultaneously be inhibited or contrived (Torkelson, 2012 ).
+The development of an individual’s sexual minority identity typically involves a process of 
+becoming aware of themselves as different from their peers, identifying with an orientation that 
+corresponds with their sexual and romantic attractions and disclosing their sexuality to others (Savin- 
+Williams & Diamond, 2000 ). According to Cass's (1979 ) Theory of Sexual Identity Formation, identity 
+development among non-heterosexual individuals involves a process of questioning and becoming 
+aware of one’s sexuality, exploring that emerging identity and engaging in non-heterosexual related 
+social and sexual activities (Cass, 1979 ). This process is believed to take time as individuals engage in 
+self-questioning, experimentation and conflict (Rosario et al., 2006 ). The resulting identity integration 
+is portrayed through both embracing and disclosing a non-heterosexual identity (Rosario et al., 
+2006 ). Despite the ongoing relevance of Cass's (1979 ) model, there is emerging evidence to suggest 
+that sexual identity development does not follow a consistent route and is not stable from person to 
+person (Morgan, 2013 ). Specifically, recent efforts have been made to account for the complex and 
+dynamic nature of sexual identity to include a multidimensional model that operates at both an 
+individual and societal level (Dillon et al., 2011 ).
+Research suggests that there are many components specific to the development of an asexual 
+identity that differ from the trajectory witnessed among other non-heterosexual groups (McInroy 
+et al., 2020 ). For example, Robbins et al. (2016 ) proposed a model of identity development that PSYCHOLOGY & SEXUALITY
+ 47
+contains experiences unique to asexual individuals. Within this model they suggest that a lack of 
+information causes many asexuals to initially question the legitimacy of their asexuality and patho -
+logise their lack of sexual attraction. Moreover, the discovery of an asexual identity is considered 
+a unique process within this model as asexual individuals typically gain information through online 
+resources and asexuality-specific communities. Finally, disclosure is considered a crucial element 
+within this model as external validation and the opportunity to educate others facilitates identity 
+integration (Robbins et al., 2016 ). Interestingly, when investigating asexual identity formation, Winer 
+et al. (2022 ), found that approximately half of asexual individuals adopt other sexual identities earlier 
+in their lives. In this respect, bisexuality and pansexuality may function as ‘identity pathways’ for 
+many asexual individuals prior to the discovery of an asexual identity (Winer et al., 2022 ). Similar to 
+the invisible nature of asexuality identified within previous models of identity development (Robbins 
+et al., 2016 ), limited awareness of asexuality may cause many individuals to initially adopt a sexual 
+identity that is more recognisable (Winer et al., 2022 ).
+Asexual identity development and wellbeing
+Sexual identity distress has been shown to significantly predict psychological distress among non- 
+heterosexual individuals (Wright & Perry, 2006 ). Specifically, anti-queer attitudes and heterosexism, 
+can result in difficulties such as social rejection, isolation and discrimination which in turn, can 
+negatively affect their sexual identity development (Anderson, 2020 ; Craig et al., 2017 ; Mayer et al., 
+2014 ). Moreover, marginalisation as a result of sexual identity can lead to higher rates of suicidality 
+and suicidal ideation (Di Giacomo et al., 2018 ), mental health disorders (Russell & Fish, 2016 ) and 
+substance abuse (Day et al., 2017 ) among sexual minority youths. This evidence for the existence 
+of stigma related prejudices against the lesbian, gay, bisexual and transgender population has 
+recently been shown to include asexual individuals (Lucassen et al., 2011 ; Yule et al., 2013 ). 
+Because of this, the development of an asexual identity and the process of integrating or ‘inter -
+nalising’ negative sentiments into one’s own self-concept is becoming an increasing focus of 
+research.
+During identity development, it is believed that an individual creates their self-image through 
+experiences and associated meanings within their community (Jamil et al., 2009 ). However, as sexual 
+minority youths are often raised within a predominantly heteronormative society, they do not 
+necessarily encounter similar others and often lack an initial exposure to non-heterosexual commu -
+nities (Rosario et al., 2006 ). As a result, they may gain an understanding of society’s negative regard 
+towards a non-heterosexual identity and may experience a different developmental trajectory 
+(Morgan, 2013 ). Like other sexual minority individuals, asexual individuals are believed to internalise 
+their existence outside of heteronormative ideals and standard life events, which in turn, shapes their 
+identity development (McInroy et al., 2020 ). Moreover, an increasing recognition of sex and sexual 
+attraction as ‘natural’ and ‘necessary’ (Kennon, 2021 ) may further enhance the invisibility and 
+oppression of asexual individuals. For example, ‘allonormativity’, or the assumption that that all 
+people experience some form of sexual attraction, has been shown to hinder the development and 
+management of asexual identities (Mollet, 2020 , 2021 ). Thus, there is a growing need to address and 
+understand how an asexual identity is constructed within the context of both a heteronormative 
+(Morgan, 2013 ) and allonormative society (Mollet, 2021 ).
+The current review
+For the purpose of the current review, asexual identity development will be conceptualised with 
+reference to both non-heterosexual and asexual identity development models. This will encom -
+pass components of identity development such identity confusion and an awareness of the self as 
+different; discovering asexuality and sources of information; the role of the internet and asexuality- 
+specific communities; identity acceptance and the integration of sexual and romantic identities; 48
+ S. KELLEHER ET AL.
+and finally, disclosure of an asexual identity, education and reactions from others. Specifically, we 
+will focus on empirical research that investigates identity development at both interpersonal and 
+intrapersonal levels, as well as the societal and cultural factors that influence identity 
+development.
+This scoping review will bring together research which pertains to asexual identity development 
+and internalisation, with an added focus on whether and how individuals internalise societal 
+messages held towards their asexual identity. Moreover, this review will provide an insight into 
+how individuals who identify as non-heterosexual and diverge from the dominant heterosexual 
+culture and assumed developmental path develop their identities.
+To ensure a comprehensive analysis of literature, the research questions directing this review are 
+broad in nature and address the following topics:
+●What empirical research, both published and unpublished, has been generated about the 
+development of an asexual identity?
+●What attitudes, values, beliefs and experiences specific to asexual individuals shape their self- 
+concept and understanding of their asexual identity?
+●What gaps are present within the literature and what is recommended for future progression 
+within this area?
+This investigation acts as a significant contribution to our understanding of the key concepts and 
+common experiences underlying the internalisation and development of an asexual identity. 
+Moreover, as the first literature review of its kind, it maps research designs and analytical procedures 
+to direct future research agendas.
+Methodology
+Literature reviews utilising a scoping methodology are becoming increasingly prevalent (Moher 
+et al., 2009 ), highlighting their success and capacity to bring together the research within an area. 
+While there is currently no conclusive definition for a scoping review (Daudt et al., 2013 ), its main 
+purpose is to provide an overview of a topic (Moher et al., 2015 ) through the syntheses of available 
+grey and published literature (Arksey & O’Malley, 2005 ). A scoping review that is well executed, may 
+make a substantial contribution to an area of research (Arksey & O’Malley, 2005 ) and is considered 
+a rigorous form of literature review.
+The broad nature of a scoping review allows for a more generalised research question and 
+subsequent exploration of a wide range of associated literature (Moher et al., 2015 ). Therefore, this 
+scoping review will allow for the inclusion of all relevant material without the limitations of 
+specific methodological approaches or contexts, whether geographical, cultural or sex based. 
+Moreover, scoping reviews endeavour to articulate what is currently known in an area, including 
+in-depth investigation of key concepts (Arksey & O’Malley, 2005 ). This is particularly fitting 
+considering our limited understanding of asexual identity development and the way in which 
+asexual individuals internalise their divergence from expected life events and societal norms. This 
+scoping review will include studies that use varying methodologies and analytical approaches to 
+consider what may be deemed a successful research design when investigating asexual identity 
+development and internalisation. Furthermore, scoping reviews aim to present evidence relevant 
+to a topic irrespective of study quality (Tricco et al., 2016 ) and are considered useful when 
+mapping an area of research that is novel and emerging. Finally, as scoping reviews present 
+information though mainly narrative presentations (Peterson et al., 2017 ), this will enhance 
+reporting of the area under investigation, which is mainly qualitative or mixed in design, with 
+limited statistical information. This scoping review will grant the exploration of a breadth of 
+literature, mapping evidence in an assessable and unrestricted way to inform future research 
+(Tricco et al., 2016 ).PSYCHOLOGY & SEXUALITY
+ 49
+Although relatively novel in nature, investigation surrounding asexuality has developed consid -
+erably over the past few decades and can be considered an emerging area of research. Specifically, 
+research has focused on how individuals come to identify as asexual, navigate relationships and 
+disclosure, seek support and integrate within the asexual community (Foster et al., 2019 ; Mollet, 
+2020 , 2021 ; Robbins et al., 2016 ). This growth in research poses many theoretical and methodological 
+challenges when studying the development of an asexual identity, such as inconsistent definitions, 
+limited demographic information and restricted gathering of participants through asexuality-specific 
+communities (Mollet, 2020 ). Thus, this review aims to map the diversity of research questions, 
+methodologies, analytical approaches and theoretical orientations, to identify key concepts and 
+knowledge gaps surrounding the development of an asexual identity. Moreover, as this research 
+aims to extract and synthesise evidence surrounding asexual identity development and internalisa -
+tion, the participants identified within each included study should maintain some understanding of 
+themselves as asexual. Studies which include participants that do not engage in sexual activity (e.g. 
+members of religious sects) and do not identify as asexual, will not be included for review.
+Method
+Objectives and research question
+The objective of this scoping review is to provide an insight into the attitudes, values, beliefs and 
+experiences that shape the identity development of asexual individuals, as well as how they 
+internalise societal messages held towards asexuality. This will involve review of both quantitative 
+and qualitative evidence, which will direct the scope of future enquiry into the area of asexuality. 
+Review questions included within this research take inspiration from the review title and as such, 
+advise the formation of inclusion criteria (Khalil et al., 2016 ).
+Identifying relevant studies
+Context
+The context of literature reviewed does not require a specific geographical location, nor specified 
+cultural, racial or sex-based factors. The reviewed literature does not require a specific setting nor 
+discipline. This review is concerned solely with the factors that contribute towards asexual identity 
+development and internalisation.
+Types of Participants
+Studies which gather data from asexual individuals have been included. When defining asexuality, 
+studies which used self-identification as asexual, behaviours indicative of asexuality (a lack of sexual 
+behaviour) and those which defined asexuality as a lack of sexual attraction directed towards others 
+were considered appropriate to include. However, regardless of how each study defined asexuality, it 
+was imperative that the participants included had an awareness of the self as asexual and interpreted 
+their experiences through this lens. A specific romantic identity, age or gender category were not 
+deemed factors requiring exclusion.
+Types of Studies
+Both qualitative and quantitative research designs were included if written in English and published 
+after 1 January 2000. This cut-off point was considered appropriate as empirical research into 
+asexuality comes predominantly from after this date (Bogaert, 2004 ).50
+ S. KELLEHER ET AL.
+Outcomes of this review
+This review maps literature surrounding asexual identity development and internalisation. 
+Specifically, this review outlines the experiences, attitudes, values and beliefs common among 
+asexuals, such as coming-out, reactions of others and how they make sense of their asexual 
+identities. In addition to this, methodological frameworks for studying asexuality and suggestions 
+for future methodological approaches are outlined. The findings of this scoping review will be useful 
+in informing the design and implementation of proceeding studies in asexuality and specifically 
+those which focus on identity development and internalisation.
+Search procedure
+A librarian specialising in behavioural and social science literature advised on appropriate search 
+strategies and identified relevant bibliographic databases. Specific databases were searched to 
+increase the likelihood of obtaining all relevant studies that fall within the scope of this review. 
+This consisted of the databases EBSCO (Academic Search Complete, CINAHL Plus with Full Text, 
+MEDLINE, APA PsycArticles, Psychology and Behavioural Sciences Collection, APA PsycInfo), Taylor 
+and Francis, PubMed and Springer. In addition to this, grey literature searches were conducted using 
+multiple search engines and databases.
+Search strategy
+This review consisted of an extensive database search with carefully selected search terms, followed 
+by the application of strict inclusion/exclusion criteria. Papers were excluded from review if they did 
+not concern an asexual population or did not focus upon the identity development or internalisation 
+(i.e. attitudes, values, beliefs and experiences) of asexual individuals. Following multiple database 
+searches, 29 papers were identified from which to extract and synthesise evidence (Figure 1). The 
+inclusion/exclusion procedure was phased in several separate stages, including the identification of 
+relevant articles, the screening of each article for inclusion or exclusion and an independent cross- 
+check of included articles by authors. The order of search terms varied depending on each site but 
+included the major themes of ‘asexuality’ or ‘asexual’, ‘beliefs’, ‘attitudes’, ‘experiences’, ‘identity’ and 
+‘value’. This review of literature was conducted across multiple timelines to ensure that the most 
+recently published articles in the area were included in the final analysis.
+1 January 2000–1 May 2019 : A total of 294 papers were imported to the citation manager EndNote 
+to allow for appropriate organisation of papers and to assist in the removal of duplicates. Following 
+an initial removal of duplicates, 277 papers remained – it is important to note that this process did 
+not immediately remove all duplicates and thus, further removal of duplicates was carried out later in 
+the screening of papers. Using a checklist created prior to the screening process, author (SK) and 
+a trained research assistant (XS) screened the remaining papers to determine eligibility. Most papers 
+were excluded based on their title/abstracts. Following initial screening, 129 references were 
+removed. The most common reasons for removal included that papers (a) were not empirical or 
+were purely theoretical in nature, (b) did not examine asexual identity development (e.g. presenta -
+tion of purely demographic information), or (c) concerned members of other non-heterosexual 
+communities without separate presentation of results pertaining to asexual participants. A second 
+screening resulted in the removal of an additional 127 papers. These papers were removed as they 
+did not investigate the attitudes, values, beliefs or experiences associated with asexual identity 
+development or internalisation. Through a second removal of duplicates, five more papers were 
+removed, resulting in a total of 16 papers included for extraction and review.
+1 May 2019–31 March 2020 : An additional review of literature was conducted with the same search 
+terms and databases as the original search. Forty papers were imported to EndNote, with the removal 
+of three duplicates. Upon initial screening of titles and abstracts, 32 papers were removed as they were PSYCHOLOGY & SEXUALITY
+ 51
+not empirical in nature or did not examine the attitudes, values, beliefs or experiences associated with 
+asexual individuals. Following an additional screening, one more paper was removed for the reasons 
+outlined above. This resulted in a total of four papers to be included in the data extraction process.
+1 January 2000–1 July 2021 : A final review of literature was carried out with the same databases as 
+the original search. Search terms were expanded to include ‘asexuality’ or ‘asexual’ and ‘identity 
+development’ or ‘identity formation’ or ‘identity construction’. This yielded 356 papers. Following an 
+initial screening, 328 papers were removed as they were either duplicated, did not meet inclusion 
+criteria, or had already been reviewed in prior searches. The remaining 28 papers underwent content 
+analysis carried out by authors MM and SK. Following content analysis, 17 papers were removed as 
+15 did not meet inclusion criteria and two were not available to the authors. This resulted in a total of 
+11 papers from this search to be included in the data extraction process.
+Data extraction process
+When combined, a total of 31 papers gathered from the database searches were included in the data 
+extraction process. A data extraction spreadsheet was designed to gather all relevant information 
+from the papers included for review. This detailed author names, location and year of publication, 
+the method of investigation and analysis, study design and sample characteristics (sample size, age, 
+gender, relationship status). The major themes produced within each study were listed within this 
+extraction process (see Appendix A). All authors examined the documents and extracted information 
+simultaneously. MM reviewed this process throughout. As this scoping review aims to garner 
+information surrounding our current knowledge of asexual identity development and internalisa -
+tion, the above categories were considered in a flexible manner. During the data extraction process, 
+a further six papers were removed on the grounds that they did not explore the attitudes, values, 
+experiences, or beliefs specific to the development of an asexual identity. This resulted in 25 
+empirical papers being included in this scoping review.
+Search strategy: grey literature
+Several databases and search engines were utilised during the grey literature search. Unlike the 
+database search, a specific timeline was not identified. SK conducted several trials to determine 
+search-engines that were most appropriate to retrieve and rank results that aligned with this scoping 
+review. This resulted in the use of search engines dedicated to web-based resources such Google 
+Search, DuckDuckGo and Dogpile. The first 100 results retrieved from each search-engine were 
+considered for review. Dissertations and theses were searched using Ethos by British Library, dart 
+Europe E-Thesis Portal, and repositories such as OpenGrey, Oaister/Worldcat, Core and Base. 
+Conference proceedings were obtained through Web of Science and Research Gate. Search strategies 
+remained consistent across resources and were derived from terms used in the bibliographic search. 
+The order of search terms varied depending on each site but included the major themes of ‘asexuality’ 
+or ‘asexual’, ‘beliefs’, ‘attitudes’, ‘experiences’, ‘identity’ and ‘value’. There was a considerable overlap 
+between resources and many results had already appeared in the bibliographic search. Dissertations, 
+theses and conference proceedings were excluded from review if they did not concern components of 
+asexual identity development and internalisation. Four articles were selected for data extraction.
+Methodological quality
+As this scoping review is exploratory in nature with an overarching aim to provide further informa -
+tion on asexual identity development and internalisation, an assessment of methodological quality 
+was not performed. This allowed for the inclusion of all available literature in the area. Unlike 
+systematic reviews, scoping reviews do not necessarily assess the quality of literature (Khalil et al., 
+2016 ).52
+ S. KELLEHER ET AL.
+Analysing the data
+Results were reviewed by authors SK and MM. The research team identified, coded and charted 
+relevant units of text from the articles as outlined by (Tricco et al., 2016 ) with a focus on findings that 
+pertained to elements of asexual identity development and/or internalisation.
+Results
+A total of twenty-nine articles were included for review. Key details from each article were charted 
+and summarised to include author information, year of publication, sample information, study 
+design and main findings (see Table A1). Although a variety of methodologies were utilised across 
+studies, the majority were qualitative in design and analysis (N = 23), with some quantitative (N = 3) 
+or mixed design (N = 3). Mixed-methods or quantitative studies performed mainly descriptive 
+analyses of the attitudes and characteristics associated with an asexual population and charted 
+demographic information. The method of analysis implemented across qualitative studies were 
+mainly phenomenological, grounded theory and ethnographic. The most common rationale given 
+for this choice of qualitative methodology was a desire to examine asexual individuals’ personal 
+perceptions of an event or experience. The prevalence of this choice of methodology coincides 
+with the overarching aim of this scoping review which is also concerned with the accounts or 
+sense-making processes of asexual individuals. Articles were produced predominantly within 
+Western societies, particularly the United States and the United Kingdom. When identifying 
+asexual participants within research, most studies (N = 27) used self-identification as an opera -
+tional definition for asexuality. Several studies maintained the assumption that when recruiting 
+through resources such as AVEN, participants should understand asexuality as ‘a lack of sexual 
+desire/attraction’ and therefore, participants who self-identified as asexual were included in the 
+research. One study used the ‘Asexual Identification Scale’ (AIS) when recruiting participants and 
+another used a combination of self-identification as asexual and participant description of asexu -
+ality as ‘not experiencing sexual attraction’. As most studies utilised self-identification as 
+a definition for asexuality, a comparison of findings based on differing definitions for asexuality 
+was not possible.
+Figure 1. Flow diagram illustrating literature search and selection.PSYCHOLOGY & SEXUALITY
+ 53
+When analysed thematically, eight themes were generated to represent key findings across 
+literature. These themes were identified as the following:
+●Understanding Asexuality
+●Coming to an Asexual Identity
+●Stigmatisation and the Need to Educate
+●Isolation and Invisibility
+●Disclosure
+●Individual Differences
+●Negotiating Relationships
+●Conservative Sexual Beliefs and Religion
+Understanding asexuality
+Existing literature emphasises how asexuality is understood by asexuals and the implications 
+that this may have when making sense of an asexual identity. Research suggests that asexuals 
+understand asexuality as a lack of sexual attraction that is independent of romantic attraction 
+and often discovered through engagement with asexual communities and online forums.
+Asexuality is understood predominantly within the asexual community as a lack of sexual 
+attraction directed towards others (Andersson, 2010 ; Brotto et al., 2010 ; Scherrer, 2008 ). An 
+example of this can be seen in research conducted by Brotto et al. (2010 ), in which asexual 
+participants described alternative motives for relationships and non-sexual forms of attraction. 
+Similarly, Maxwell (2017 ) found that while asexuality may be connected to multiple forms of 
+attraction, such attractions are based upon non-sexual desires, predominantly romantic with 
+a focus on intellectual intimacy. Further examples of this can be seen within research con-
+ducted by Mitchell & Hunnicutt (2019 ) and Van Houdenhove et al. (2015 ), in which asexual 
+participants note their ability to consider others as ‘aesthetically pleasing’ without sexual 
+attraction.
+Moreover, evidence suggests that sex and romance are perceived as two very separate 
+constructs of desire within the asexual community. For example, attitudes towards romance do 
+not differ significantly between asexual and allosexual participants. An example of this is seen 
+within Bulmer & Izuma's (2018 ) comparison of asexual and allosexual participants’ attitudes 
+towards sex and romance. This research shows that while asexual participants typically display 
+more negative attitudes towards sex, they do not differ significantly from allosexuals in terms 
+of their implicit attitudes towards romance. Similarly, research suggests that asexual women are 
+more open towards romance and romantic attraction without an element of sexual desire 
+(Foster et al., 2019 ). This understanding of romantic and sexual desire as different is seen 
+throughout the literature and appears key in forming participants’ understanding of their 
+asexual identities.
+Finally, imperative to understanding one’s asexuality is a sense of community gained when 
+identifying as asexual. Research suggests that a sense of difference associated with discovering an 
+asexual identity may be subdued by the concept of an asexual community or asexuality-specific 
+support groups (Carrigan, 2011 ; Mollet, 2020 ; Rossi, 2017 ; Savage, 2019 ; Vares, 2021 ). For example, 
+a shared sense of community and exposure to others’ accounts of asexuality has been shown to 
+allow participants to move beyond individualised self-questioning and assists in the understanding 
+of their asexual identity (Carrigan, 2011 ; MacNeela & Murphy, 2015 ; Mollet, 2020 ; Rossi, 2017 ; Savage, 
+2019 ; Van Houdenhove et al., 2015 ).54
+ S. KELLEHER ET AL.
+Coming to an asexual identity
+Much of the literature emphasises components of coming to an asexual identity, including an 
+awareness of the self as different and feelings of otherness within a sexualised society. For example, 
+feelings of disparity when comparing the self with peers, is a common experience among asexuals, 
+and for many, marks the beginning of their asexual identity (Andersson, 2010 ; Foster et al., 2019 ; 
+Mollet, 2020 ; Savage, 2019 ). Moreover, this sense of difference may result in feelings of otherness and 
+self-questioning among asexuals (Brotto et al., 2010 ; Rossi, 2017 ; Van Houdenhove et al., 2015 ) and 
+may initiate the process of discovering an asexual identity (Carrigan, 2011 ). However, research 
+suggests that coming to an asexual identity may be a nuanced or ‘fluid’ process, that is subject to 
+varying experiences and sub-identities (Mitchell & Hunnicutt, 2019 ). For example, culture, gender 
+expectations and religious ideologies (Foster et al., 2019 ; MacNeela & Murphy, 2015 ; Mollet, 2021 ) 
+have been shown to hinder the recognition of many participants’ asexuality and their ability to 
+express themselves as asexual. Moreover, within their proposed model of asexual identity develop -
+ment Robbins et al., (2016 ), acknowledge that awareness of one’s asexual identity does not follow 
+a linear progression and is subject to varying experiences and sub-identities.
+The internet appears to play a large role when discovering and making sense of an asexual 
+identity. For example, the internet and social media outlets act as a source of information among 
+asexuals (Andersson, 2010 ; Foster et al., 2019 ; McInroy et al., 2020 ; Mitchell & Hunnicutt, 2019 ; Mollet, 
+2020 ; Rossi, 2017 ; Savage, 2019 ) and have been shown to assist in the validation of an asexual 
+experience as well as the coming out process (Robbins et al., 2016 ). Specifically, asexual participants 
+have identified AVEN as a particularly useful source of information, both for their own validation, as 
+well as a source of reference for friends and family members (Robbins et al., 2016 ).
+Imperative to coming to an asexual identity is the ability to embrace one’s sexuality and to adopt 
+this as part of the self. Current literature conveys a sense of ‘embracing’ asexuality upon discovering 
+its existence (Foster et al., 2019 ; Robbins et al., 2016 ; Rossi, 2017 ; Van Houdenhove et al., 2015 ). 
+Moreover, literature suggests a sense of ‘relief’ when learning about asexuality and adopting an 
+asexual identity (Andersson, 2010 ; Mitchell & Hunnicutt, 2019 ; Mollet, 2020 ; Rossi, 2017 ; Vares, 2021 ).
+Stigmatisation and the need to educate
+Stigmatisation and the dismissal of asexuality is witnessed throughout literature. This stigmatisation 
+appears to be a typical experience among participants and is considered by many to stem from the 
+imposition of sexuality within society. These experiences of stigmatisation and a general lack of 
+information surrounding asexuality brings forth a sense of obligation to educate others on 
+asexuality.
+Foster et al. (2019 ) reported the social rejection of participants’ asexuality through allosexuals’ 
+assumptions that their lack of sexual interest is due to mental illness or childhood trauma. Such 
+findings have been reproduced across literature, whereby asexuality lacks credibility within sex-
+ualised cultures (MacNeela & Murphy, 2015 ; Mollet, 2020 ; Robbins et al., 2016 ), and asexuals are 
+often advised to seek medical or psychological explanations/treatments for their lack of sexual 
+desire (Gupta, 2017 ). Participants have described others’ consideration of asexuality as a ‘phase’ 
+(Carrigan, 2011 ) ‘mental or medical condition’, or as a result of an abusive relationship (Mitchell & 
+Hunnicutt, 2019 ; Mollet, 2020 , 2021 ). These experiences of stigmatisation appear to stem from 
+a lack of information and the imposition of sexuality by society (Foster et al., 2019 ). Moreover, the 
+presence of microaggressions and divergence from sexual and romantic expectations has brought 
+many asexuals to experience ‘shame’ surrounding their lack of sexual attraction (Deutsch, 2018 ; 
+Vares, 2021 , p. 7) and a sense of the self as different or incomplete (Savage, 2019 ). For example, 
+many asexual participants have been shown to adopt a negative understanding of asexuality and 
+attribute their lack of sexual attraction to conditions such as Asperger’s Syndrome and problematic 
+childhood experiences (Andersson, 2010 ). Again, these findings are considered to evolve as PSYCHOLOGY & SEXUALITY
+ 55
+a negative result of ‘compulsory sexuality’ in which being sexual, irrespective of sexual identity, is 
+favoured over ‘non-sexualness’ or asexuality (Gupta, 2015 ). According to the reviewed literature, 
+the sources of this stigma may include family, friends, religious institutions and medical profes -
+sionals, some members of non-heterosexual communities and the sexualisation of media and 
+advertising (Deutsch, 2018 ; Gupta, 2017 ; Mitchell & Hunnicutt, 2019 ; Robbins et al., 2016 ; Rossi, 
+2017 ; Savage, 2019 ).
+Research suggests that experiences of stigmatisation have led to a ‘strong desire among asexuals’ 
+to educate others on the existence of asexuality (Brotto et al., 2010 ). This sense of obligation to 
+inform others about asexuality stems from a need to destigmatise and address misconceptions 
+(Brotto et al., 2010 ; Savage, 2019 ), increase visibility (Gupta, 2017 ; Mollet, 2021 ; Rossi, 2017 ) and 
+legitimise asexuality (Scherrer, 2008 ). Findings from Gupta (2017 ), indicate a motivation for political/ 
+social change stemming predominantly from experiences of marginalisation and subsequent 
+engagement in outreach activities and visibility work. This was also seen within research conducted 
+by Mollet (2020 , 2021 ), in which many asexuals considered their roles in volunteer efforts and 
+educational initiatives as a responsibility and felt compelled to enhance information surrounding 
+asexuality. Moreover, many asexuals express the need for increased research surrounding asexuality, 
+to enhance self-identification and legitimate sources of information (Brotto et al., 2010 ; Rossi, 2017 ; 
+Savage, 2019 ). Taken together, these findings indicate a common experience of stigmatisation that is 
+resisted through a shared obligation to educate others and promote an awareness of asexuality as 
+a legitimate sexual identity.
+Isolation and invisibility
+Current literature suggests a common experience of invisibility and social isolation among asexual 
+individuals. This invisibility of asexuality appears to stem predominantly from sexualised cultures and 
+allonormativity. For example, Vares (2021 , p. 7), reported that representations of the heteronorma -
+tive ideal, such as ‘the happy family’ are considered ‘inescapable’ by some asexual participants, with 
+limited offline contact and few groups available for support. Such findings appear consistent across 
+literature, with many participants reporting a lack of social credibility, denial, and invisibility of 
+asexuality (MacNeela & Murphy, 2015 ; Mollet, 2020 ; Rossi, 2017 ; Rothblum et al., 2019 ; Savage, 2019 ; 
+Vares, 2018 ). This consideration of asexuality as invisible appears as a source of ‘angst’ for some 
+individuals (Mitchell & Hunnicutt, 2019 , p. 518), making it harder for them to come out (Dawson et al., 
+2016 ). Moreover, allonormativity has been shown to influence asexual individuals’ identity manage -
+ment in multiple ways and contributes towards invisibility, invalidity, and the erasure of asexuals 
+(Mollet, 2021 ). When examining the role of allonormativity within higher education, Mollet (2020 , 
+2021 ), found that many asexual participants internalised allonormative ideals and questioned their 
+asexuality. This sense of doubt surrounding participants’ asexual identities was reinforced by lack of 
+exposure to asexuality and perpetuated a sense of isolation (Mollet, 2020 ). Moreover, this sense of 
+isolation and invisibility is reinforced by the sexualisation of media and advertising, as well as the 
+power of sex within marketing and the communication of sexual relationships as ‘normal’ (Gupta, 
+2017 ; Mollet, 2021 ; Rothblum et al., 2019 ; Savage, 2019 ; Vares, 2021 ). Interestingly, while participants 
+attributed this social anonymity to a lack of awareness of asexuality, some also considered this as 
+a result of disguising their asexuality (Mollet, 2020 , 2021 ) or the ability to ‘fake being sexual’ (Mitchell 
+& Hunnicutt, 2019 , p. 518).
+Disclosure
+According to current literature, there are several factors influencing an individual’s willingness to 
+disclose their asexual identity. Such factors range from a desire to increase awareness of asexuality, 
+to apprehension surrounding a fear of dismissal and alienation. Moreover, research suggests that 
+reactions towards participants’ disclosure is related to others’ awareness of asexuality.56
+ S. KELLEHER ET AL.
+Findings from Mitchell and Hunnicutt (2019 ) reveal that while selective in the disclosure of their 
+asexual identities, participants felt that coming-out was necessary to increase awareness of asexu -
+ality. Research suggests that many asexual individuals consider disclosure as ‘necessary’ to increase 
+visibility of asexuality (Foster et al., 2019 , p. 132; Robbins et al., 2016 ), and for some, is an opportunity 
+to no longer hide their lack of sexual attraction (Rossi, 2017 ). Despite this, evidence suggests that 
+coming out is a selective process within the asexual community (Foster et al., 2019 ; Robbins et al., 
+2016 ), with many asexuals considering disclosure as ‘unnecessary irrespective of circumstances’ 
+(Mollet, 2021 ). For example, Robbins et al. (2016 ) found that some asexual participants engaged in 
+an internal process of identity acceptance and felt that coming out was not salient to their identities. 
+Moreover, they noted that many participants considered disclosure as relevant only within romantic 
+relationships or when addressing questions surrounding dating and finding a partner (Robbins et al., 
+2016 ).
+Research suggests that many asexuals fear disclosure due to invisibility and denial within 
+sexualised cultures (Rossi, 2017 ; Savage, 2019 ). This apprehensiveness surrounding disclosure report -
+edly stems from a fear of stigmatisation (Robbins et al., 2016 ) and invisibility of asexuality (Foster 
+et al., 2019 ; MacNeela & Murphy, 2015 ). For example, dismissal, expected or experienced, from 
+friends, family and potential partners (Jolene Sloan, 2015 ; Mollet, 2021 ; Rossi, 2017 ; Vares, 2018 ), as 
+well as others’ assumption of sexual pathology, has been shown to hinder the coming out process 
+(McInroy et al., 2020 ; Mitchell & Hunnicutt, 2019 ; Mollet, 2020 , 2021 ; Rothblum et al., 2020 ). 
+According to Mollet (2020 ), this denial or ‘erasure’ of asexuality perpetuates invisibility and con-
+tributes towards asexual individuals’ beliefs that others are unwilling to accept or recognise their 
+asexual identities. Moreover, many asexual participants have recalled experiences of erasure when 
+disclosing their asexual identities to members of non-heterosexual communities and associated 
+organisations (Mollet, 2020 , 2021 ; Savage, 2019 ). Again, this dismissal appears to stem from allo-
+normativity and negative assumptions held by some members of non-heterosexual communities 
+and has caused many asexual individuals to refrain from sharing their identities within these spaces 
+(Mollet, 2021 ).
+Despite these concerns surrounding disclosure, support and acceptance from others is also seen 
+throughout the reviewed literature. Findings from Robbins et al. (2016 ) indicated positive reactions 
+towards disclosure that were related to an increased understanding and awareness of asexuality. 
+Moreover, despite the existence of fear surrounding disclosure, Rothblum et al. (2020 ) reported an 
+availability of social support that did not differ significantly from the experiences of other sexual 
+minorities. Such experiences of support and understanding are also seen in research conducted by 
+Mitchell and Hunnicutt (2019 ), in which some participants report acceptance and understanding 
+when coming out to family and friends.
+Individual differences
+While the asexual community holds many commonalities, research suggests that there are a diverse 
+range of attitudes and sub-identities that act to distinguish asexual individuals. This can be seen 
+through the presence of both romantic and aromantic identities, varying attitudes towards sex and 
+relationships, and differing sentiments regarding the significance of asexuality to one’s self-concept. 
+An example of such diversity can be seen within research conducted by Carrigan (2011 ) and Rossi 
+(2017 ), in which participants presented varying attitudes towards sex, such as ‘sex positive’, ‘sex- 
+neutral’, ‘sex-averse’ and ‘anti-sex’. Additionally, research indicates the presence of ‘demi-sexuals’, 
+whereby participants experience sexual attraction based on romantic desire (Carrigan, 2011 ), or 
+intermittent sexual attraction while still identifying as asexual (Foster et al., 2019 ).
+Romantic and aromantic identities are also shown to exist within the asexual community (Bulmer 
+& Izuma, 2018 ; Scherrer, 2008 ). Distinctions between the two typically appear when describing an 
+‘ideal relationship’, with aromantic asexuals often considering this as ‘friendship like’ and romantic 
+asexuals describing some level of physical intimacy and a preference for monogamy (Carrigan, 2011 ; PSYCHOLOGY & SEXUALITY
+ 57
+Scherrer, 2008 , p. 623). Moreover, when investigating sexual attraction and behaviour among 
+asexual individuals, McInroy et al. (2020 ) found that over half of self-identified asexual participants 
+(N = 711) had experienced some form of sexual and/or romantic attraction. This corresponds with the 
+concept that asexuality is diverse, with varying levels of attraction and differing experiences of sexual 
+and romantic relationships. The presence of diverse sexual and romantic identities has previously 
+been interpreted through the ‘split attraction model’ (SAM), whereby sexual and romantic attraction 
+are considered separate constructs that can occur independently of one another (Przybyło, 2022 ). 
+This model, which encompasses additional forms of attraction such as aesthetic, sensual, platonic, 
+emotional and intellectual attraction, has been considered useful when understanding the nuances 
+that underlie asexual and (a)romantic identities (Carroll, 2020 ; Przybyło, 2022 ; Winer et al., 2022 ). 
+Despite this, the SAM has recently received conjecture from some individuals within the asexual 
+community, as many feel it conflates attraction and orientation models (Coyote., 2019a , 2019b ). As 
+such, it may be more appropriate to consider this model as a guide to understanding the distinctions 
+that underly asexual identities and position it within broader terms such as ‘differentiated attraction/ 
+orientation’ (Sennkestra., 2020 ). This may remove the assumption that the SAM is a single coherent 
+model that is unvarying across asexual communities and may grant greater flexibility and versatility 
+in asexual individuals’ use of labels when referring to their romantic and sexual identities.
+The literature also indicates that asexual individuals differ in their experience of being asexual and 
+the value that they place on their asexual identity. An example of this can be seen within research 
+conducted by Dawson et al. (2016 ), where many participants described the coming out process as 
+important, while others considered it socially unnecessary with no pragmatic purpose. Moreover, 
+several participants recounted a ‘Eureka’ moment when first discovering the term asexual, while 
+others considered this euphoria as short lived and quickly moved on following discovery (Dawson 
+et al., 2019 , p. 16).
+Negotiating relationships
+Existing research emphasises how asexual individuals negotiate and understand intimate relation -
+ships. This includes the negotiation of intimate boundaries, loyalties and partnerships; the motiva -
+tions to engage in a relationship; and doubts surrounding the feasibility of an intimate relationship 
+with an allosexual partner.
+The process of negotiating sexual boundaries and the resulting arrangements held between 
+asexuals and allosexual partners is documented across literature. This can be seen through asexual 
+participants’ willingness to engage in some form of sexual activity with an allosexual partner (Gupta, 
+2017 ; Haefner, 2011 ; Jolene Sloan, 2015 ), and consideration of sex as a compromise within relation -
+ships (Foster et al., 2019 ; Mollet, 2020 ). Interestingly, research suggests that BDSM communities 
+allow some asexuals the opportunity to find partners and engage in intimate activities that do not 
+rely on sexual desire (Jolene Sloan, 2015 ; Vares, 2018 ; Winter-Gray & Hayfield, 2021 ). Moreover, many 
+asexuals report engaging in open relationships to maintain partnerships with allosexuals (Gupta, 
+2017 ; Van Houdenhove et al., 2015 ), and consider infidelity as romantic rather than sexual engage -
+ment with others (Brotto et al., 2010 ). Despite this, research also suggests that some asexuals engage 
+in consensual sex due to societal pressures (Gupta, 2017 ), feel unable to communicate their 
+asexuality or come to an agreement with their partners (Dawson et al., 2019 ; Savage, 2019 ).
+Asexual participants describe several motivations for engaging in relationships with both asexual 
+and allosexual partners. These motivations appear to stem from a desire to gain intellectual intimacy 
+(Maxwell, 2017 ; Van Houdenhove et al., 2015 ), achieve long-term monogamy and a traditional family 
+structure (Vares, 2018 , 2021 ), and for some, adhere to cultural expectations and gender role expres -
+sions (Foster et al., 2019 ). However, research also suggests a sense of doubt surrounding the 
+perceived possibility of a relationship. For example, many asexuals question the practicality of 
+a sexless relationship (Van Houdenhove et al., 2015 ) and describe an inactive approach to finding 
+a partner due to these perceived difficulties (Maxwell, 2017 ; Vares, 2018 , 2021 ). Moreover, many 58
+ S. KELLEHER ET AL.
+asexuals consider their chances of finding a partner as ‘low’ and often dismiss non-sexual closeness 
+in friendships due to a fear of ‘something more’ (Dawson et al., 2019 , pp. 11–14). Interestingly, some 
+asexuals considered a relationship with another asexual individual as unlikely due to a lack of 
+accessibility (Vares, 2018 ).
+Conservative sexual beliefs and religion
+The evidence that surrounds asexual participants’ religious beliefs and conservative views is sparse 
+and conflicting at times. Such discrepancies can be seen through varying reports of religiosity, as well 
+as differing levels of conservative sexual beliefs across studies. For example, while Kurowicka and 
+Przybylo (2020 ) suggest that many asexuals use Catholic discourse to explain their asexuality, Brotto 
+et al. (2010 ) and Rothblum et al. (2019 ), found a higher proportion of atheism within their samples. 
+Moreover, while Kurowicka and Przybylo (2020 ) found Catholicism to be significant point of refer -
+ence among asexuals, Brotto et al. (2010 ), found that asexuality was more often related to non- 
+conformist ideals, as well as an objection to religious values. In addition to this, Carvalho et al. (2017 ), 
+reported the presence of more sexually conservative beliefs among asexuals, although this is yet to 
+be addressed within future research.
+Discussion
+This scoping review presents several important findings about the attitudes, beliefs, values and 
+experiences that underpin asexual identity development, as well as the process of internalising 
+societal messages held towards asexuality. An analysis of the available literature has generated a list 
+of provisory themes that describe components of asexual identity development and provides 
+a unique contribution to our current knowledge of asexuality. The themes identified within this 
+review appear consistently throughout literature highlighting their relevance and importance when 
+investigating asexual identity development and internalisation. Moreover, features of identity devel -
+opment presented within this research correspond with existing theoretical models of both non- 
+heterosexual and asexual identity development. It must be noted that the themes presented within 
+this research are not prescriptive of asexual identity development and do not account for the varied 
+experiences, sub-identities or genders present within the asexual population.
+Theoretical implications and suggestions for future research
+The articles included in this review were mainly qualitative in design and produced largely descrip -
+tive accounts of the experiences, attitudes and beliefs that may shape asexual identity development 
+and internalisation. The reoccurring use of qualitative methods within the reviewed literature 
+corresponds with an overarching aim to gain insights into the thoughts and feelings of participants 
+(Austin & Sutton, 2014 ), as well as current attempts to broaden our understanding of asexual 
+identities and experiences associated with asexuality (Mollet & Lackman, 2018 ). Moreover, summar -
+ising the available qualitative research grants an additional layer to the value of this scoping review 
+and may be used to inform the design and implementation of future quantitative enquiries.
+Existing literature emphasises the key events and sense-making processes that underlie asexual 
+identity development and internalisation, such as coming-out, the reactions of others and how 
+asexuals interpret their lack of sexual attraction. Evidence suggests that asexual individuals typically 
+understand asexuality as a lack of sexual attraction that is independent of romantic attraction and 
+often recognise their asexuality through exposure to asexual communities. Identification as asexual 
+appears to follow a common trajectory that is initiated through self-questioning and confirmed 
+through online supports such as AVEN. Moreover, these findings are indicative of the term asexuality 
+as hidden and not commonly recognised prior to exposure to online resources. The literature also 
+presents a common experience of stigmatisation and social dismissal of one’s sexual identity. This PSYCHOLOGY & SEXUALITY
+ 59
+fear of dismissal and a lack of awareness from others appears to impact participants’ willingness to 
+disclose their asexual identities and reinforces a desire to educate others and increase awareness of 
+asexuality. Finally, the literature suggests alternative motivations to engage in romantic relation -
+ships, as well as asexual individuals’ concerns that underly intimacy and loyalties within partnerships. 
+Despite such commonalities, research also presents a diverse range of attitudes and identities 
+present within the asexual community. This is witnessed through the existence of diverse romantic 
+(e.g. aromantic, biromantic, heteroromantic and homoromantic) and sexual (e.g. asexual, demi- 
+sexual and grey-asexual) identities, as well as varying levels of significance placed on one’s asexual 
+identity. Moreover, there was a diverse range of ages and genders (e.g. male, female, transgender, 
+agender and genderqueer) reported within the reviewed literature.
+The role of heteronormativity and compulsory sexuality
+Heteronormativity and ‘compulsory sexuality’ appeared as key concepts underpinning the research 
+area of asexuality and specifically, literature surrounding the experiences, attitudes, beliefs and 
+values of asexual individuals. Heteronormativity can be considered to relate to the promotion of 
+heterosexuality as a societally preferred sexual identity, whereas compulsory sexuality pertains to 
+‘the common assumption that everyone is defined by some type of sexual attraction’ (Emens, 2014 , 
+p. 303). Although the influence of these concepts was seen predominantly within literature inves -
+tigating asexual individuals’ experiences of stigmatisation, isolation and invisibility, they were 
+evident throughout all themes listed within this scoping review. Moreover, there appeared to be 
+consistent evidence for allosexuals’ negative sentiments held towards asexuality and the impact that 
+this has on asexual individuals’ identity development and internalisation.
+Throughout the reviewed literature, there was repeated reference to allosexuals’ dismissal of 
+asexuality as some form of physical or psychological disorder. This is consistent with the values of 
+heteronormativity (Robertson, 2014 ) and allonormativity and thus, may lead to more a distressing 
+sexual questioning process (Boyer & Lorenz, 2020 ). The influence of these heteronormative and 
+allonormative ideals was apparent within literature through feelings of stigmatisation and alienation 
+and appeared to instil a negative understanding of asexuality among some asexual participants. 
+Isolation and ‘erasure’ also appeared as recurring sentiments throughout literature, as asexual indivi -
+duals reported a sense of difference from their peers (Brotto et al., 2010 ; Carrigan, 2011 ; Foster et al., 
+2019 ; Mollet, 2020 , 2021 ). Moreover, a common experience of invisibility reported within the literature 
+corresponds with the pressures of compulsory sexuality and how this may hinder the recognition of 
+an asexual identity among asexual individuals (Winer et al., 2022 ). It was apparent that many 
+participants internalised this sense of difference surrounding their asexuality and as a result, were 
+seen to doubt or question their asexual identities. This is reminiscent of past literature surrounding the 
+influence of heteronormativity and how this may exclude and marginalise non-heterosexual indivi -
+duals (Rich, 1980 ). Moreover, these findings may be likened to research surrounding other sexual 
+minority identities in which isolation and a sense of difference may lead to a greater risk for 
+psychological damage (Sullivan & Wodarski, 2002 ). Future research should consider the impact that 
+stigmatisation, isolation and dismissal may have on asexual individuals’ wellbeing, granting greater 
+insight into the problems that they may face when coming to an asexual identity. It is apparent that 
+the imposition of sexual norms within society may negatively impact asexual individuals’ cohesive 
+sense of identity (MacNeela & Murphy, 2015 ) and thus, further investigation is required to better 
+understand asexual individuals’ experiences of overcoming both heteronormative and allonormative 
+ideals (Winer et al., 2022 ). While there is much evidence surrounding asexuals’ experiences of 
+stigmatisation and marginalisation, the impact of minority stress and the influence that this may 
+have on their well-being is yet to be comprehensively investigated. According to Friedman (1999 ), 
+stigmatisation and prejudice directed at a minority group can result in a stressful environment that 
+may lead to physical and/or mental health problems. Interestingly, this minority stress can be linked to 
+concealment of sexual identity (Meyer, 2003 ) and has been shown to have far-reaching health 60
+ S. KELLEHER ET AL.
+implications for lesbian and gay people (Guschlbauer et al., 2019 ). As this scoping review has identified 
+reports of stigmatisation within the asexual population, future research should consider how this is 
+internalised by asexuals and the implications that this may have on their wellbeing. This may grant 
+insight into the challenges faced by asexuals, as well as the resources available to counter stigmatisa -
+tion and prejudice.
+Asexual Identity Development
+The themes present within this scoping review relate closely to stages of non-heterosexual identity 
+development (Cass, 1979 ) and elements specific to asexual identity development (Robbins et al., 
+2016 ). Throughout literature, there is consistent evidence of how asexual individuals come to 
+discover, understand and identify with asexuality, as well as the processes surrounding the disclosure 
+of their asexual identity. Cass’s (1979 ) initial stages of ‘Identity Confusion’ and ‘Identity Comparison’ 
+are evident within the literature as a consideration of the self as different from peers marks the 
+beginning of an individual’s asexual identity. Moreover, repeated reports of self-questioning, patho -
+logising and subsequent searching is consistent with the components unique to asexual identity 
+development. The third and fourth stages of Cass’s model, ‘Identity Acceptance’ and ‘Identity Pride’, 
+are seen within the literature through varying reports of asexual individuals’ embracing their 
+asexuality and gaining a sense of asexual community. Specifically, online resources and asexual 
+communities are shown to assist in the development of an asexual identity and correspond with 
+current understanding of asexual identity development. According to Harper et al. (2016 ), online 
+communities assist in developing non-heterosexual identities by providing a safe space of recogni -
+tion and self-acceptance. As seen throughout the reviewed literature, these online spaces allow 
+asexual individuals to develop their sense of identity within a larger community. Moreover, the 
+asexual community acts to ameliorate feelings of marginalisation and isolation deriving from 
+heteronormativity and allonormativity, which as a result fosters a positive self-concept and identity 
+among asexual individuals. Finally, disclosure of an asexual identity and a need to educate others on 
+asexuality appears repeatedly throughout literature, further highlighting its applicability within the 
+development of an asexual identity.
+Despite the relevance of themes presented within this scoping review to the stages 
+identified within non-heterosexual identity development models, there are several instances 
+which portray asexual identity development as a non-linear process. For example, much of 
+the literature suggests that developing and maintaining an asexual identity may be 
+a nuanced or fluid process that is subject to varying experiences and sub-identities 
+(Mitchell & Hunnicutt, 2019 ; Robbins et al., 2016 ). This is seen within the literature as visibility, 
+culture, gender expectations and religious ideologies are shown to hinder the recognition of 
+many participants’ asexuality and their ability to express themselves as asexual (Foster et al., 
+2019 ; MacNeela & Murphy, 2015 ; Mollet, 2021 ). As a result, findings from this scoping review 
+confirm a growing awareness of the multifaceted nature of asexual identity development 
+(Winer et al., 2022 ).
+Further research is required to establish the process of asexual identity development, as well as 
+the factors contributing to how asexual individuals internalise their lack of sexual attraction. This may 
+include investigation into the multifaceted nature of asexual identities and how they interact to 
+shape asexual identity development. Moreover, future research should consider how asexual identity 
+development coincides with and differs from that of other sexual minority identities. This will provide 
+greater insight into the unique attitudes, beliefs, values and experiences that contribute towards 
+asexual identity development. Finally, as many asexual individuals report discoveries through online 
+forums, future research should investigate the influence of online support and its role in amending 
+this sense of difference.PSYCHOLOGY & SEXUALITY
+ 61
+Relationships and theories of love
+When considering asexual individuals’ motivations to engage in interpersonal partner relationships, 
+much of the literature indicates a desire to gain intellectual or emotional intimacy without sexual 
+desire (Maxwell, 2017 ; Van Houdenhove et al., 2015 ; Vares, 2018 , 2021 ). These findings may be 
+interpreted through Sternberg’s (1986 ) Triangular Theory of Love, whereby love comprises of three 
+independent components namely, ‘intimacy’, ‘passion’ and ‘decision/commitment’. According to 
+Sternberg (1986 , 1997 ), these components are motivational needs that are present in varying 
+degrees within relationships and can combine to form varying ‘love styles’. Of relevance are the 
+parts intimacy’ and ‘commitment’ in which Sternberg (1986 ) theorised that an individual can 
+experience closeness, connectedness and ‘bondedness’ towards a partner without the presence of 
+‘passion’ or what is interpreted as sexual desire. This notion that intimate emotions can be felt 
+without sexual desire, may tie in with asexuals’ motivations to engage in interpersonal partner 
+relationships, while also providing a useful framework for better understanding their experiences 
+within these relationships. As such, the findings present within this review may act as an argument 
+for the Sternberg model in that different forms of love are possible such as commitment and 
+intimacy without the presence of sexual desire.
+Moreover, conformity and the influence of sexual normativity also appear as factors contributing 
+to asexual individuals’ desire to engage in a partner relationship. Although asexuals’ experience of 
+sex is investigated within the current literature, conformity and the influence of sexual normativity is 
+yet to be expanded upon. While this review does identify the influence of societal pressures (Gupta, 
+2017 ) and a desire to maintain relationships (Foster et al., 2019 ), there is a need to further investigate 
+asexuals’ reasons for having sex and the implications that this may have on their understanding of 
+their asexual identity. Thus, future research should examine the presence of these emotion-based 
+incentives and how they may align with Sternberg’s model of love.
+The asexual community as heterogeneous
+Studies typically reported a diverse range of ages, romantic orientations and genders within their 
+participant pools. This reinforces an awareness of the asexual community as heterogeneous (Brotto & 
+Yule, 2017 ), and corresponds with previous findings surrounding its widespread diversity (Weis et al., 
+2017 ). Moreover, this demonstrates the diverse nature of asexual identity development and how the 
+integration of gender and sexuality within a heteronormative society may account for variability within 
+asexual individuals’ experiences (Cuthbert, 2019 ). This is seen within the reviewed literature as partici -
+pants’ departure from societally expected gender roles and sexual norms threatened their positive self- 
+perceptions and subsequent identity development (MacNeela & Murphy, 2015 ). Moreover, gender 
+appears to play a fundamental role within asexual individuals’ experiences of dating and relationships, 
+as well as allosexuals’ reactions towards the disclosure of their asexual identities. For example, female 
+asexuals’ lack of sexual attraction may be dismissed as sexual passivity (Vares, 2018 ) with some allosexuals 
+considering them to ‘tease’ or ‘lead on’ their partners (Haefner, 2011 ). Conversely, sexual desire is 
+considered inherent to male participants’ gender identity, with some allosexuals disbelieving their lack 
+of sexual drive and questioning their masculinity (Vares, 2018 ). Thus, the employment of heteronormative 
+feminine and masculine sexuality, as well as allonormativity, may contribute towards the denial of asexual 
+individuals’ lack of sexual attraction in ways that are specific to their preferred gender identity.
+Considering the diverse nature of the asexual community, future research should examine the 
+influence of varying sub-identities on asexual identity development. This may include the intersec -
+tion of queer identities (e.g. transgender and gender non-conforming people) and asexuality, as well 
+as the role of racism, sexism and ableism within asexual identity development (Foster et al., 2019 ). 
+This may allow greater inclusivity within research and grant insight into the complexity of asexual 
+participants’ experiences (Antonsen et al., 2020 ; Foster et al., 2019 ).62
+ S. KELLEHER ET AL.
+Limitations
+The generalisability of themes produced within this review is limited due to the nature of the 
+participant pools involved. As most studies gained participants through online communities and 
+asexuality specific platforms, this may not represent the experiences of asexuals who are not 
+exposed to online forums. Thus, this brings forth the need to investigate the identity development 
+and internalisation of asexual individuals that are not recruited through asexuality specific platforms 
+or communities.
+Moreover, there were several limitations surrounding the methodology of this scoping review. 
+Firstly, the search strategy excluded studies published in a language other than English, leaving open 
+the possibility of important national and/or cultural differences. Secondly, as scoping reviews do not 
+require a quality assessment of literature (Arksey & O’Malley, 2005 ), our reporting of these results 
+may be subjective in nature. Finally, as our understanding of asexuality and the language used to 
+describe asexual identities continues to evolve, the search terms used within this study may have led 
+to the exclusion of some published literature. This is particularly relevant to research published 
+earlier within the area of asexuality.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+This research received no specific grant from any funding agencies in the public, commercial or not-for-profit sectors.
+Notes on contributors
+Sinéad Kelleher is a PhD candidate and Head Tutor of the BA (Hons) Applied Psychology programme and BA (Hons) 
+Psychology and Computing programme in University College Cork, Ireland. Her research interests include human 
+sexuality, developmental psychology, social psychology, and psychometrics.
+Mike Murphy is a Lecturer in Applied Psychology, and Research Coordinator of the Doctoral Programme in Clinical 
+Psychology, in University College Cork, Ireland. His research interests include human sexuality, social support, and 
+positive & coaching psychology.
+Xin Su is a recent graduate in Applied Psychology, University College Cork, Ireland. His research interests include health 
+and wellbeing in the context of social identity.
+ORCID
+Mike Murphy 
+ http://orcid.org/0000-0002-8379-3813
+References
+Anderson, S. M. (2020 ). Gender Matters: The perceived role of gender expression in discrimination against cisgender and 
+transgender LGBQ individuals. Psychology of Women Quarterly , 44(3), 323–341. https://doi.org/10.1177/ 
+0361684320929354 
+Andersson, K. (2010 ). We have a name for something I’ve felt all my life. Lund University. http://www. lunduniversity. lu. 
+se/lup/publication/1615944 .
+Antonsen, A. N., Zdaniuk, B., Yule, M., & Brotto, L. A. (2020 ). Ace and Aro: Understanding differences in romantic 
+attractions among persons identifying as asexual. Archives of Sexual Behavior , 49(5), 1615–1630. https://doi.org/10. 
+1007/s10508-019-01600-1 
+Arksey, H., & O’Malley, L. (2005 ). Scoping studies: Towards a methodological framework. International Journal of Social 
+Research Methodology , 8(1), 19–32. https://doi.org/10.1080/1364557032000119616 PSYCHOLOGY & SEXUALITY
+ 63
+Arnett, J. J. (2007 ). Emerging adulthood: What is it, and what is it good for? Child Development Perspectives , 1(2), 68–73. 
+https://doi.org/10.1111/j.1750-8606.2007.00016.x 
+Austin, Z., & Sutton, J. (2014 ). Qualitative research: Getting started. The Canadian Journal of Hospital Pharmacy , 67(6), 
+436–440. https://doi.org/10.4212/cjhp.v67i6.1406 
+Bogaert, A. F. (2004 ). Asexuality: Prevalence and associated factors in a national probability sample. The Journal of Sex 
+Research , 41(3), 279–287. https://doi.org/10.1080/00224490409552235 
+Bogaert, A. F. (2006 ). Toward a conceptual understanding of asexuality. Review of General Psychology , 10(3), 241–250. 
+https://doi.org/10.1037/1089-2680.10.3.241 
+Boyer, S. J., & Lorenz, T. K. (2020 ). The impact of heteronormative ideals imposition on sexual orientation questioning 
+distress. Psychology of Sexual Orientation and Gender Diversity , 7(1), 91–100. doi:10.1037/sgd0000352 .
+Brotto, L. A., Knudson, G., Inskip, J., Rhodes, K., & Erskine, Y. (2010 ). asexuality: A mixed-methods approach. Archives of 
+Sexual Behavior , 39(3), 599–618. https://doi.org/10.1007/s10508-008-9434-x 
+Brotto, L. A., & Yule, M. (2017 ). Asexuality: Sexual orientation, paraphilia, sexual dysfunction, or none of the above? 
+Archives of Sexual Behavior , 46(3), 619–627. https://doi.org/10.1007/s10508-016-0802-7 
+Bulmer, M., & Izuma, K. (2018 ). Implicit and explicit attitudes toward sex and romance in asexuals. The Journal of Sex 
+Research , 55(8), 962–974. https://doi.org/10.1080/00224499.2017.1303438 
+Carrigan, M. (2011 ). There’s more to life than sex? Difference and commonality within the asexual community. 
+Sexualities , 14(4), 462–478. https://doi.org/10.1177/1363460711406462 
+Carroll, M. (2020 ). What can asexuality offer sociology? Insights from the 2017 Asexual Community Census Preprint. 
+SocArXiv. https://doi.org/10.31235/osf.io/bh7t3 
+Carvalho, J., Lemos, D., & Nobre, P. J. (2017 ). Psychological features and sexual beliefs characterizing self-labeled asexual 
+individuals. Journal of Sex & Marital Therapy , 43(6), 517–528. https://doi.org/10.1080/0092623X.2016.1208696 
+Cass, V. C. (1979 ). Homosexual identity formation: A theoretical model. Journal of Homosexuality , 4(3), 219–235. https:// 
+doi.org/10.1300/J082v04n03_01 
+Chasin, C. D. (2015 ). Making sense in and of the asexual community: Navigating relationships and identities in a context 
+of resistance: Making sense of asexuality. Journal of Community & Applied Social Psychology , 25(2), 167–180. https:// 
+doi.org/10.1002/casp.2203 
+Coyote. (2019a , March 15). Romantic Orientation and the “Split Attraction Model” are not the same thing . The Ace Theist . 
+https://theacetheist.wordpress.com/2019/03/14/romantic-orientation-and-the-split-attraction-model-are-not-the- 
+same-thing/ 
+Coyote. (2019b , March 20). Remodeling: On the Reclamation of the Term “Split Attraction Model” . The Ace Theist . https:// 
+theacetheist.wordpress.com/2019/03/20/remodeling-on-the-reclamation-of-the-term-split-attraction-model/ 
+Craig, S. L., Iacono, G., Paceley, M. S., Dentato, M. P., & Boyle, K. E. H. (2017 ). Intersecting sexual, gender, and professional 
+identities among social work students: The importance of identity integration. Journal of Social Work Education , 53(3), 
+466–479. https://doi.org/10.1080/10437797.2016.1272516 
+Cuthbert, K. (2019 ). “When we talk about gender we talk about sex”: (A)sexuality and (A)gendered subjectivities. Gender 
+& Society , 33(6), 841–864. https://doi.org/10.1177/0891243219867916 
+Daudt, H. M., van Mossel, C., & Scott, S. J. (2013 ). Enhancing the scoping study methodology: A large, inter-professional 
+team’s experience with Arksey and O’Malley’s framework. BMC Medical Research Methodology , 13(1), 48. https://doi. 
+org/10.1186/1471-2288-13-48 
+Dawson, M., McDonnell, L., & Scott, S. (2016 ). Negotiating the boundaries of intimacy: The personal lives of asexual 
+people. The Sociological Review , 64(2), 349–365. https://doi.org/10.1111/1467-954X.12362 
+Dawson, M., Scott, S., & Mcdonnell, L. (2019 ). Freedom and foreclosure: Intimate consequences for asexual identities. 
+Families, Relationships and Societies , 8(1), 7–22. https://doi.org/10.1332/204674317X15011694317558 
+Day, J. K., Fish, J. N., Perez-Brumer, A., Hatzenbuehler, M. L., & Russell, S. T. (2017 ). Transgender youth substance use 
+disparities: Results from a population-based sample. Journal of Adolescent Health , 61(6), 729–735. https://doi.org/10. 
+1016/j.jadohealth.2017.06.024 
+DeLuzio Chasin, C. (2011 ). Theoretical issues in the study of asexuality. Archives of Sexual Behavior , 40(4), 713–723. 
+https://doi.org/10.1007/s10508-011-9757-x 
+Deutsch, T. (2018 ). Asexual People’s Experience with Microaggressions M.A. City University of New York John Jay College of 
+Criminal Justice. https://www.proquest.com/docview/2076398300/abstract/3BFF0BCEC7A44132PQ/1 
+Di Giacomo, E., Krausz, M., Colmegna, F., Aspesi, F., & Clerici, M. (2018 ). Estimating the risk of attempted suicide among 
+sexual minority youths: A systematic review and meta-analysis. JAMA Pediatrics , 172(12), 1145. https://doi.org/10. 
+1001/jamapediatrics.2018.2731 
+Dillon, F. R., Worthington, R. L., & Moradi, B. (2011 ). Sexual identity as a universal process. In S. J. Schwartz, K. Luyckx, & 
+V. L. Vignoles (Eds.), Handbook of Identity Theory and Research (pp. 649–670). Springer New York. https://doi.org/10. 
+1007/978-1-4419-7988-9_27 
+Emens, E. F. (2014 ). Compulsory Sexuality. Stanford Law Review , 66(2) , 303–386. https://www.proquest.com/scholarly- 
+journals/compulsory-sexuality/docview/1507220830/se-2?accountid=14504 .64
+ S. KELLEHER ET AL.
+Foster, A. B., Eklund, A., Brewster, M. E., Walker, A. D., & Candon, E. (2019 ). Personal agency disavowed: Identity 
+construction in asexual women of color. Psychology of Sexual Orientation and Gender Diversity , 6(2), 127–137. 
+doi:10.1037/sgd0000310 .
+Friedman, R. C. (1999 ). Homosexuality, psychopathology, and suicidality. Archives of General Psychiatry , 56(10), 887–888. 
+https://doi.org/10.1001/archpsyc.56.10.887 
+Gupta, K. (2015 ). Compulsory sexuality: Evaluating an emerging concept. Signs: Journal of Women in Culture and Society , 
+41(1), 131–154. https://doi.org/10.1086/681774 
+Gupta, K. (2017 ). “And now i’m just different, but there’s nothing actually wrong with me”: Asexual Marginalization and 
+resistance. Journal of Homosexuality , 64(8), 991–1013. https://doi.org/10.1080/00918369.2016.1236590 
+Guschlbauer, A., Smith, N. G., DeStefano, J., & Soltis, D. E. (2019 ). Minority stress and emotional intimacy among 
+individuals in lesbian and gay couples: Implications for relationship satisfaction and health. Journal of Social and 
+Personal Relationships , 36(3), 855–878. https://doi.org/10.1177/0265407517746787 
+Haefner, C. (2011 ) (). Asexual scripts: A grounded theory inquiry into the intrapsychic scripts asexuals use to negotiate 
+romantic relationships . Institute of Transpersonal Psychology. https://www.proquest.com/dissertations-theses/asex 
+ual-scripts-grounded-theory-inquiry-into/docview/875157958/se-2 
+Hammack, P. L., Frost, D. M., & Hughes, S. D. (2019 ). Queer intimacies: A new paradigm for the study of relationship 
+diversity. The Journal of Sex Research , 56(4–5), 556–592. https://doi.org/10.1080/00224499.2018.1531281 
+Harper, G. W., Serrano, P. A., Bruce, D., & Bauermeister, J. A. (2016 ). The internet’s multiple roles in facilitating the sexual 
+orientation identity development of gay and bisexual male adolescents. American Journal of Men’s Health , 10(5), 359– 
+376. doi:10.1177/1557988314566227 .
+Jamil, O. B., Harper, G. W., & Fernandez, M. I., & Adolescent Trials Network for HIV/AIDS Interventions. (2009 ). Sexual and 
+ethnic identity development among gay–bisexual–questioning (GBQ) male ethnic minority adolescents. Cultural 
+Diversity and Ethnic Minority Psychology , 15(3), 203–214 doi:10.1037/a0014795 .
+Jolene Sloan, L. (2015 ). Ace of (BDSM) clubs: Building asexual relationships through BDSM practice. Sexualities , 18(5–6), 
+548–563. https://doi.org/10.1177/1363460714550907 
+Keniston, K. (1968 ). Psychoanalysis and Theories of Man: Identity: Youth and Crisis . In E. H. Erikson (Editors.), $2.95. Science 
+(pp. 336). Norton. Cloth, $6.95; paper, 161(3838), 257–258 https://doi.org/10.1126/science.161.3838.257 
+Kennon, P. (2021 ). Asexuality and the potential of young adult literature for disrupting allonormativity. The International 
+Journal of Young Adult Literature , 2(1), 1 doi:10.24877/ijyal.41 .
+Khalil, H., Peters, M., Godfrey, C. M., McInerney, P., Soares, C. B., & Parker, D. (2016 ). An evidence-based approach to 
+scoping reviews: EBP approach to scoping reviews. Worldviews on Evidence-Based Nursing , 13(2), 118–123. https://doi. 
+org/10.1111/wvn.12144 
+Kietzer, C. (2015 ). Development of self identity as lesbian, gay, bisexual, trangender. Adlerian Counseling and 
+Psychotherapy. United States of America Adler Graduate School 2015 , 56.
+Kroger, J. (2015 ). Identity development through adulthood: The move toward “wholeness. In McLean, Kate C., Syed, 
+Moin (Eds.), The Oxford Handbook of Identity Development (pp. 65–80). Oxford University Press.
+Kurowicka, A., & Przybylo, E. (2020 ). Polish asexualities: Catholic religiosity and asexual online activisms in Poland. In 
+R. Buyantueva & M. Shevtsova (Eds.), LGBTQ+ Activism in Central and Eastern Europe (pp. 289–311). Springer 
+International Publishing. https://doi.org/10.1007/978-3-030-20401-3_12 
+Laumann, E. O., Gagnon, J. H., Michael, R. T., & Michaels, S. (2000 ). The Social Organization of Sexuality: Sexual Practices in 
+the United States . University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/S/bo3626005. 
+html 
+Lucassen, M. F. G., Merry, S. N., Robinson, E. M., Denny, S., Clark, T., Ameratunga, S., Crengle, S., & Rossen, F. V. (2011 ). 
+Sexual attraction, depression, self-harm, suicidality and help-seeking behaviour in New Zealand secondary school 
+students. Australian & New Zealand Journal of Psychiatry , 45(5), 376–383. https://doi.org/10.3109/00048674.2011. 
+559635 
+MacInnis, C. C., & Hodson, G. (2012 ). Intergroup bias toward “Group X”: Evidence of prejudice, dehumanization, 
+avoidance, and discrimination against asexuals. Group Processes & Intergroup Relations , 15(6), 725–743. https://doi. 
+org/10.1177/1368430212442419 
+MacNeela, P., & Murphy, A. (2015 ). Freedom, invisibility, and community: A qualitative study of self-identification with 
+asexuality. Archives of Sexual Behavior , 44(3), 799–812. https://doi.org/10.1007/s10508-014-0458-0 
+Marcia, J. E. (1987 ). The identity status approach to the study of ego identity development. In Honess, T., Yardley, K. 
+(Eds.), Self and identity: Perspectives across the lifespan (pp. 161–171). Routledge.
+Maxwell, D. (2017 ). It’s not just about sex: Asexual identity and intimate relationship practices [Phd, University of York]. 
+https://etheses.whiterose.ac.uk/18006/ 
+Mayer, K. H., Garofalo, R., & Makadon, H. J. (2014 ). Promoting the successful development of sexual and gender minority 
+youths. American Journal of Public Health , 104(6), 976–981. https://doi.org/10.2105/AJPH.2014.301876 
+McAdams, D. P., & McLean, K. C. (2013 ). Narrative identity. Current Directions in Psychological Science , 22(3), 233–238. 
+https://doi.org/10.1177/0963721413475622 PSYCHOLOGY & SEXUALITY
+ 65
+McInroy, L. B., Beaujolais, B., Leung, V. W. Y., Craig, S. L., Eaton, A. D., & Austin, A. (2020 ). Comparing asexual and 
+non-asexual sexual minority adolescents and young adults: Stressors, suicidality and mental and behavioural health 
+risk outcomes. Psychology & Sexuality , 1–17. https://doi.org/10.1080/19419899.2020.1806103 
+McLean, K. C., Syed, M., Fivush, R., & Zaman, W. (2015 ). Gendered Narrative Voices. In K. C. McLean & M. Syed (Eds.), The 
+Oxford Handbook of Identity Development . (pp. 33-52). Oxford University Press . https://doi.org/10.1093/oxfordhb/ 
+9780199936564.013.003 
+McLean, K. C., Syed, M., McAdams, D. P., & Zapata-Gietl, C. (2015 ). Three Strands of Identity Development Across the 
+Human Life Course. In K. C. McLean & M. Syed (Eds.), The Oxford Handbook of Identity Development . (pp. 81-94). Oxford 
+University Press. https://doi.org/10.1093/oxfordhb/9780199936564.013.006 
+Meyer, I. H. (2003 ). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual 
+issues and research evidence. Psychological Bulletin , 129(5), 674–697 doi:10.1037/0033-2909.129.5.674 .
+Misra, G. (2007 ). Construction of self: A cross-cultural perspective . Mindscapes, Bangalore, India. 32–44.
+Mitchell, H., & Hunnicutt, G. (2019 ). Challenging Accepted Scripts of Sexual “Normality”: Asexual Narratives of Non- 
+normative Identity and Experience. Sexuality & Culture , 23(2), 507–524. https://doi.org/10.1007/s12119-018-9567-6 
+Moher, D., Liberati, A., Tetzlaff, J., & Altman, D. G., & The PRISMA Group. (2009 ). preferred reporting items for systematic 
+reviews and meta-analyses: The PRISMA Statement. PLoS Medicine , 6(7), e1000097. https://doi.org/10.1371/journal. 
+pmed.1000097 
+Moher, D., Stewart, L., & Shekelle, P. All in the family: Systematic reviews, rapid reviews, scoping reviews, realist reviews, 
+and more. (2015 ). Systematic Reviews , 4(1), s13643-015-0163–0167. 183. https://doi.org/10.1186/s13643-015-0163-7 
+Mollet, A. L. (2020 ). “I have a lot of feelings, just none in the genitalia region”: A grounded theory of asexual college 
+students’ identity journeys. Journal of College Student Development , 61(2), 189–206. https://doi.org/10.1353/csd.2020. 
+0017 
+Mollet, A. L. (2021 ). “It’s easier just to say I’m queer”: Asexual college students’ strategic identity management. Journal of 
+Diversity in Higher Education . https://doi.org/10.1037/dhe0000210 
+Mollet, A. L., & Lackman, B. R. (2018 ). Asexual borderlands: Asexual collegians’ reflections on inclusion under the LGBTQ 
+umbrella. Journal of College Student Development , 59(5), 623–628. https://doi.org/10.1353/csd.2018.0058 
+Morgan, E. M. (2013 ). Contemporary issues in sexual orientation and identity development in emerging adulthood. 
+Emerging Adulthood , 1(1), 52–66. https://doi.org/10.1177/2167696812469187 
+Peterson, J., Pearce, P. F., Ferguson, L. A., & Langford, C. A. (2017 ). Understanding scoping reviews: Definition, purpose, 
+and process. Journal of the American Association of Nurse Practitioners , 29(1), 12–16. https://doi.org/10.1002/2327- 
+6924.12380 
+Poston, D., & Baumle, A. (2010 ). Patterns of asexuality in the United States. Demographic Research , 23, 509–530. https:// 
+doi.org/10.4054/DemRes.2010.23.18 
+Prause, N., & Graham, C. A. (2007 ). Asexuality: Classification and characterization. Archives of Sexual Behavior , 36(3), 
+341–356. https://doi.org/10.1007/s10508-006-9142-3 
+Przybyło, E. (2022 ). Ace and aro lesbian art and theory with Agnes Martin and Yayoi Kusama. Journal of Lesbian Studies , 
+26(1), 89–112. https://doi.org/10.1080/10894160.2021.1958732 
+Rich, A. (1980 ). Compulsory heterosexuality and lesbian existence. Signs: Journal of Women in Culture and Society , 5(4), 
+631–660. https://doi.org/10.1086/493756 
+Robbins, N. K., Low, K. G., & Query, A. N. (2016 ). A Qualitative exploration of the “coming out” process for asexual 
+individuals. Archives of Sexual Behavior , 45(3), 751–760. https://doi.org/10.1007/s10508-015-0561-x 
+Robertson, M. A. (2014 ). “How do I know I am gay?”: Understanding sexual orientation, identity and behavior among 
+adolescents in an LGBT youth center. Sexuality & Culture , 18(2), 385–404. https://doi.org/10.1007/s12119-013-9203-4 
+Rosario, M., Schrimshaw, E. W., Hunter, J., & Braun, L. (2006 ). Sexual identity development among lesbian, gay, and 
+bisexual youths: Consistency and change over time. Journal of Sex Research , 43(1), 46–58. https://doi.org/10.1080/ 
+00224490609552298 
+Rossi, J. (2017 ). Passing When Asexual: Methods for Appearing Straight . 24. Mckendree.edu
+Rothblum, E. D., Heimann, K., & Carpenter, K. (2019 ). The lives of asexual individuals outside of sexual and romantic 
+relationships: Education, occupation, religion and community. Psychology & Sexuality , 10(1), 83–93. https://doi.org/ 
+10.1080/19419899.2018.1552186 
+Rothblum, E. D., Krueger, E. A., Kittle, K. R., & Meyer, I. H. (2020 ). Asexual and non-asexual respondents from a U.S. 
+Population-based study of sexual minorities. Archives of Sexual Behavior , 49(2), 757–767. https://doi.org/10.1007/ 
+s10508-019-01485-0 
+Russell, S. T., & Fish, J. N. (2016 ). Mental health in lesbian, gay, bisexual, and transgender (LGBT) youth. Annual Review of 
+Clinical Psychology , 12(1), 465–487. https://doi.org/10.1146/annurev-clinpsy-021815-093153 
+Savage, C. (2019 ). The impact of experiences of asexual students in four-year institutions of higher education [Thesis]. Texas 
+Tech University. https://ttu-ir.tdl.org/handle/2346/85057 
+Savin-Williams, R. C. (2011 ). Identity development among sexual-minority youth. In S. J. Schwartz, K. Luyckx, & 
+V. L. Vignoles (Eds.), Handbook of Identity Theory and Research (pp. 671–689). Springer New York. https://doi.org/ 
+10.1007/978-1-4419-7988-9_28 66
+ S. KELLEHER ET AL.
+Savin-Williams, R. C., & Diamond, L. M. (2000 ). Sexual identity trajectories among sexual-minority youths: Gender 
+comparisons. Archives of Sexual Behavior , 29(6), 607–627. https://doi.org/10.1023/A:1002058505138 
+Scherrer, K. S. (2008 ). Coming to an asexual identity: Negotiating identity, negotiating desire. Sexualities , 11(5), 621–641. 
+https://doi.org/10.1177/1363460708094269 
+Sennkestra. (2020 , May 1). Differentiating Attraction/Orientations (Or, the “Split Attraction Model” by any other name is so 
+much sweeter.) . NEXT STEP: CAKE . https://nextstepcake.wordpress.com/2020/04/30/naming-differentiating-attraction 
+-orientations/ 
+Sharma, S., & Sharma, M. (2010 ). Self, social identity and psychological well-being. Psychological Studies , 55(2), 118–136. 
+https://doi.org/10.1007/s12646-010-0011-8 
+Sternberg, R. J. (1986 ). A triangular theory of love. Psychological Review , 93(2), 119–135. doi:10.1037/0033-295X.93.2.119 .
+Sternberg, R. J. (1997 ). Construct validation of a triangular love scale. European Journal of Social Psychology , 27(3), 
+313–335. https://doi.org/10.1002/(SICI)1099-0992(199705)27:3<313::AID-EJSP824>3.0.CO;2-4 
+Stryker, S. (1980 ). Symbolic Interactionism: A Social Structural Version—Sheldon Stryker—Google Books , Benjamin/ 
+Cummings Publishing Company. https://books.google.ie/books/about/Symbolic_Interactionism.html?id=EX_ 
+ZAAAAMAAJ&redir_esc=y 
+Sullivan, M., & Wodarski, J. S. (2002 ). Social alienation in gay youth. Journal of Human Behavior in the Social Environment , 
+5(1), 1–17. https://doi.org/10.1300/J137v05n01_01 
+Thoits, P. A. (2013 ). Self, identity, stress, and mental health. In C. S. Aneshensel, J. C. Phelan, & A. Bierman (Eds.), 
+Handbook of the Sociology of Mental Health (pp. 357–377). Springer Netherlands. https://doi.org/10.1007/978-94-007- 
+4276-5_18 
+Torkelson, J. (2012 ). A queer vision of emerging adulthood: Seeing sexuality in the transition to adulthood. Sexuality 
+Research and Social Policy , 9(2), 132–142. https://doi.org/10.1007/s13178-011-0078-6 
+Tricco, A. C., Lillie, E., Zarin, W., O’Brien, K., Colquhoun, H., Kastner, M., Levac, D., Ng, C., Sharpe, J. P., Wilson, K., Kenny, M., 
+Warren, R., Wilson, C., Stelfox, H. T., & Straus, S. E. (2016 ). A scoping review on the conduct and reporting of scoping 
+reviews. BMC Medical Research Methodology , 16(1), 15. https://doi.org/10.1186/s12874-016-0116-4 
+Tsang, S. K. M., Hui, E. K. P., & Law, B. C. M. (2012 ). Positive identity as a positive youth development construct: 
+A conceptual review. The Scientific World Journal , 2012 , 1–8. https://doi.org/10.1100/2012/529691 
+Van Houdenhove, E., Gijs, L., T’Sjoen, G., & Enzlin, P. (2015 ). Stories about asexuality: A qualitative study on asexual 
+women. Journal of Sex & Marital Therapy , 41(3), 262–281. https://doi.org/10.1080/0092623X.2014.889053 
+Vares, T. (2018 ). ‘My [asexuality] is playing hell with my dating life’: Romantic identified asexuals negotiate the dating 
+game. Sexualities , 21(4), 520–536. https://doi.org/10.1177/1363460717716400 
+Vares, T. (2021 ). Asexuals negotiate the ‘onslaught of the heteronormative. Sexualities , 136346072199338. doi:10.1177/ 
+1363460721993389 .
+Vignoles, V. L., Schwartz, S. J., & Luyckx, K. (2011 ). Introduction: Toward an integrative view of identity. In S. J. Schwartz, 
+K. Luyckx, & V. L. Vignoles (Eds.), Handbook of Identity Theory and Research (pp. 1–27). Springer New York. https://doi. 
+org/10.1007/978-1-4419-7988-9_1 
+Weis, R., Tomaskovic-Moore, S., Bauer, C., Miller, T. L., Adroit, M., & Baba, A. (2017 ). . 2017 and 2018 Asexual Community 
+Survey Summary Report . AVEN, 95.
+Winer, C., Carroll, M., Yang, Y., Linder, K., & Miles, B. (2022 ). “I Didn’t Know Ace Was a Thing”: Bisexuality and Pansexuality 
+as Identity Pathways in Asexual Identity Formation. . https://doi.org/10.31235/osf.io/agnd8 
+Winter-Gray, T., & Hayfield, N. (2021 ). ‘Can I be a kinky ace?’: How asexual people negotiate their experiences of kinks and 
+fetishes. Psychology & Sexuality , 12(3), 163–179. https://doi.org/10.1080/19419899.2019.1679866 
+Wright, E. R., & Perry, B. L. (2006 ). Sexual identity distress, social support, and the health of gay, lesbian, and bisexual 
+youth. Journal of Homosexuality , 51(1), 81–110. https://doi.org/10.1300/J082v51n01_05 
+Yule, M. A., Brotto, L. A., & Gorzalka, B. B. (2013 ). Mental health and interpersonal functioning in self-identified asexual 
+men and women. Psychology and Sexuality , 4(2), 136–151. https://doi.org/10.1080/19419899.2013.774162PSYCHOLOGY & SEXUALITY
+ 67
+Appendix A
+Table A1. Charted articles included in the scoping review.
+No. Author Information Sample Information Research DesignRelevant 
+Themes
+1 Andersson (2010 ) 
+Country = SwedenAge: not specified 
+Gender: Female (N = 5), Male (N = 1) 
+Sample Size = 6Study Design: Qualitative Study 
+Design 
+Method of Analysis: Combined 
+Analysis of Content Analysis, 
+Interviews and Observations 
+Collection: InterviewComing to an 
+Asexual 
+Identity 
+Understanding 
+Asexuality 
+Stigmatisation 
+and the 
+Need to 
+Educate
+2 Brotto et al. (2010 ) 
+Country = CanadaAge: Range = 20–57 
+Gender: Male (N = 4), Female (N = 11) 
+Sample Size = 15Study Design: Qualitative Study 
+Design 
+Method of Analysis: 
+Phenomenological Analysis 
+Collection: Telephone InterviewUnderstanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Negotiating 
+Relationships
+3 Bulmer and Izuma 
+(2018 ) 
+Country = United 
+KingdomAge: Female (M = 21.11), Male 
+(M = 21.82) 
+Gender (Asexual Participants): Female 
+(N = 14), Male (N = 3), Other (N = 1) 
+Gender (Control): Female (N = 23), Male 
+(N = 4) 
+Sample Size = 45 (18 Asexuals, 27 
+Controls)Study Design: Between Group 
+Comparison 
+Method of Analysis: Quantitative 
+Collection: Online questionnaire and 
+paper questionnaireUnderstanding 
+Asexuality 
+Individual 
+Differences
+4 Carrigan (2011 ) 
+Country = United 
+KingdomAge: Not Specified 
+Gender: Not Specified 
+Sample Size = Interviews (N = 8) online 
+questionnaires (N = 130)Study Design: Qualitative & 
+Quantitative Design 
+Method of Analysis: Mixed Method 
+Collection: Interviews & Online 
+QuestionnaireUnderstanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Individual 
+Differences
+5 Carvalho et al. 
+(2017 ) 
+Country = PortugalAge (Asexual Participants): Female 
+(M = 22.7, SD = 4.8), Male (M = 22.4, 
+SD = 4.1) 
+Age (Control Participants): Female 
+(M = 22.5, SD = 2.9), Male (M = 22.4, 
+SD = 2.7) 
+Gender (Asexual Participants): Female 
+(N = 68), Male (N = 19) 
+Gender (Control): Female (N = 58), Male 
+(N = 19) 
+Sample Size = 164 (91 Asexuals, 81 
+Controls)Study Design: Quantitative Study 
+Design Method of Analysis: 
+Multivariate analyses of variance 
+(MANOVAs) 
+Collection: Online QuestionnairesConservative 
+Sexual 
+Beliefs and 
+Religion
+6 Dawson et al. (2019 ) 
+Country = ScotlandAge: 76% < 29 years of age, 24% ≥ 
+30 years of age. 
+Gender: Not Specified 
+Sample Size = 50Study Design: Qualitative Study 
+Design 
+Method of Analysis: Symbolic 
+Interactionist Theory 
+Collection: Diary Writing and 
+Interview AccountsNegotiating 
+Relationships
+7 Deutsch (2018 ) 
+Country = United 
+StatesAge: (M = 22.27, SD = 2.24) 
+Gender: Female (N = 11) 
+Sample Size = 11Study Design: Qualitative Study 
+Design 
+Method of Analysis: Consensual 
+Qualitative Analysis 
+Collection: Semi-structured InterviewStigmatisation 
+and the need 
+to Educate
+(Continued )68
+ S. KELLEHER ET AL.
+Table A1. (Continued).
+No. Author Information Sample Information Research DesignRelevant 
+Themes
+8 Foster et al. (2019 ) 
+Country = United 
+StatesAge: Range = 18–51 (M = 25.9, 
+Median = 22.5, SD = 10.14) 
+Gender: Female (N = 5), Bio-female 
+(N = 1), Cis-female (N = 2), Cis-woman 
+(N = 1), ‘Asexual’ (N = 1) 
+Sample Size = 11Study Design: Qualitative Study 
+Design Method of Analysis: 
+Consensual Qualitative Research 
+Collection: Semi-structured InterviewsUnderstanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Negotiating 
+Relationships 
+Disclosure 
+Individual 
+Differences
+9 Gupta (2017 ) 
+Country = United 
+StatesAge: Range = 19–50 (M = 29, SD = 9.5) 
+Gender: Female (70%), Male (23%), 
+Trans woman (N = 1), Other (1) 
+Sample Size = 30Study Design: Qualitative Research 
+Design Method of Analysis: 
+Qualitative Analysis 
+Collection: In-depth semi structured 
+interview (in-person and over 
+phone)Stigmatisation 
+and the need 
+to Educate 
+Individual 
+Differences 
+Isolation and 
+Invisibility
+10 Haefner 
+Country = United 
+StatesAge: Range = 18–55, 
+18–21 (N = 29); 22–25 (N = 19); 26–30 
+(N = 8); 31–35 (N = 4); 36; 40 (N = 0); 
+41–45 (N = 1); 46–50 (N = 1); 51–55 
+(N = 1) 
+*One participant did not give their age 
+Gender: F (N = 37), M (N = 12), Agender 
+(N = 9), Gender Queer (N = 8), Other 
+(N = 6), Pangender (N = 1), 
+Transgender (N = 1) 
+Sample Size = 64Study Design: Qualitative Study 
+Design 
+Method of Analysis: Grounded Theory 
+Collection: Two online surveysNegotiating 
+Relationships
+11 Kurowicka and 
+Przybylo (2020 ) 
+Country = PolandAge: Not Specified 
+Gender: Not Specified 
+Sample Size: Not SpecifiedStudy Design: Qualitative Study 
+Design 
+Method of Analysis: Not Specified 
+Collection: Analysis of Online Forums 
+(Sieć Edukacji Aseksualnej or SEA – 
+translated as the Asexual Education 
+Network)Conservative 
+Sexual Belief 
+and Religion
+12 MacNeela and 
+Murphy (2015 ) 
+Country = IrelandAge: Range = 18–58 (M = 26.10, 
+SD = 9.96) 
+Gender: Female (31), Male (15), Other 
+(18) unspecified (2) 
+Sample Size = 66Study Design: Qualitative Study 
+Design Method of Analysis: 
+Thematic Analysis 
+Collection: Open-ended Online 
+QuestionnairesUnderstanding 
+Asexuality 
+Stigmatisation 
+and the need 
+to Educate 
+Disclosure 
+Isolation and 
+Invisibility
+13 Maxwell (2017 ) 
+Country =  
+United KingdomAge: < 30 (N = 22), ≤ 35 (N = 4), >35 
+(N = 3) 
+Gender: Female (N = 22), Male (N = 7), 
+Agender (N = 2), Non-gender (N = 5), 
+Demi-female (N = 2), Cisgender 
+(N = 12), Androgynous (N = 1) 
+Sample Size (completed surveys) = 68 
+Sample Size (completed survey and 
+interview) = 29Study Design: Qualitative Study 
+Design 
+Method of Analysis: Thematic Analysis 
+Collection: Online Surveys and Online 
+Interviews.Understanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Negotiating 
+Relationships
+14 McInroy et al. (2020 ) 
+Country = United 
+States of America 
+& CanadaAge: Range = 14–24, Mean = 17.43 
+Gender: Non-binary (N = 306), Female 
+(N = 214), Genderqueer (N = 169), 
+Trans Man (N = 127), Male (N = 42), 
+Trans Woman (N = 12), Two Spirit 
+(N = 11), Other (N = 9) 
+Sample Size: 711Study Design: Quantitative Study 
+Design 
+Method of Analysis: Quantitative 
+Analysis, demographic analysis 
+Collection: Online SurveyComing to an 
+Asexual 
+Identity 
+Disclosure 
+Individual 
+Differences
+(Continued )PSYCHOLOGY & SEXUALITY
+ 69
+Table A1. (Continued).
+No. Author Information Sample Information Research DesignRelevant 
+Themes
+15 Mitchell and 
+Hunnicutt (2019 ) 
+Country = United 
+StatesAge: Not Specified 
+Gender: Female (N = 6), Male (N = 2), 
+M-questioning (N = 1), Agender 
+(N = 1) 
+Sample Size = 10Study Design: Qualitative Study 
+Design   
+Method of Analysis: Qualitative – not 
+specified 
+Collection: Modified life story 
+narrative approach with an open- 
+ended interview processUnderstanding 
+the Asexual 
+Self 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Disclosure 
+Isolation and 
+Invisibility 
+Individual 
+Differences
+16 Mollet (2020 ) 
+Country = United 
+States of AmericaAge: Not Specified 
+Gender: Male, Transgender, Agender 
+(N = 1); Cisgender Woman (N = 4); 
+Agender, Transgender (N = 1); 
+Agender, Transmasculine (N = 1); 
+Genderqueer, Transgender (N = 1); 
+Nonbinary (N = 2); Cisgender Man 
+(N = 2) 
+Sample Size = 12Study Design: Qualitative Study 
+Design  
+Method of Analysis: Grounded Theory 
+Collection: Open Interview (phase 1) 
+and Focus Group (phase 2)Understanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the 
+Need to 
+Educate 
+Isolation and 
+Invisibility 
+Disclosure 
+Negotiating 
+Relationships
+17 Mollet (2021 ) 
+Country = United 
+States of AmericaAge: Not Specified 
+Gender: Male, Transgender, Agender 
+(N = 1); Cisgender Woman (N = 4); 
+Agender, Transgender (N = 1); 
+Agender, Transmasculine (N = 1); 
+Genderqueer, Transgender (N = 1); 
+Nonbinary (N = 2); Cisgender Man 
+(N = 2) 
+Sample Size = 12Study Design: Qualitative Study 
+Design  
+Method of Analysis: Grounded theory 
+Collection: Open Interview (phase 1) 
+and Focus Group (phase 2)Stigmatisation 
+and the 
+Need to 
+Educate 
+Isolation and 
+Invisibility 
+Disclosure
+18 Robbins et al. (2016 ) 
+Country: United 
+StatesAge: Range = 18–25 (71%), 26–32 
+(20%), 33 and over (8%) 
+Gender: Female (69%), Male (16%), 
+Unidentified (15%) Sample Size = 169Study Design: Qualitative Study 
+Design 
+Method of Analysis: Thematic Analysis 
+Collection: Open-ended InterviewComing to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Disclosure
+19 Rossi (2017 ) 
+Country = United 
+States of AmericaAge: Range = 20–45 
+Gender: Female (N = 8) 
+Sample Size = 8Study Design: Qualitative Study 
+Design  
+Method of Analysis: Qualitative 
+Analysis 
+Collection: Interviews (skype, 
+facetime and in-person)Understanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Isolation and 
+Invisibility 
+Individual 
+Differences 
+Disclosure
+(Continued )70
+ S. KELLEHER ET AL.
+Table A1. (Continued).
+No. Author Information Sample Information Research DesignRelevant 
+Themes
+20 Rothblum et al. 
+(2019 ) 
+Country = United 
+States of AmericaAge: Range = 18–53 (M = 30, SD = 11.5) 
+Gender: Non-binary (N = 3), Male (N = 3) 
+Female (N = 21) 
+Sample Size = 27Study Design: Qualitative Study 
+Design  
+Method of Analysis: Thematic Analysis 
+Collection: Telephone InterviewIsolation and 
+Invisibility 
+Conservative 
+Sexual 
+Beliefs and 
+Religion
+21 Rothblum et al. 
+(2020 ) 
+Country: United 
+StatesAge: Range = 18–61 
+91.19% (18–27) 
+Gender: Female (27.74%), Male (0%), 
+Gender-queer, non-binary (72.26%) 
+Sample Size = 19Study Design: Quantitative Study 
+Design  
+Method of Analysis: bivariate 
+differences assessed between 
+asexual and non-asexual sexual 
+minorities 
+Collection: Online QuestionnaireStigmatisation 
+and the need 
+to Educate 
+Disclosure
+22 Savage (2019 ) 
+Country = United 
+States of AmericaAge: Range = 18–28 
+Gender: Not Specified 
+Sample Size = 5Study Design: Qualitative Study 
+Design  
+Method of Analysis: Qualitative 
+Analysis (guided by Muted Group 
+Theory and the Minority Stress 
+Model) 
+Collection: Semi-structured Interviews 
+(in-person and online)Understanding 
+Asexuality 
+Coming to an 
+Asexual 
+Identity 
+Stigmatisation 
+and the need 
+to Educate 
+Isolation and 
+Invisibility 
+Disclosure 
+Negotiating 
+Relationships
+23 Scherrer (2008 ) 
+Country = United 
+StatesAge: Range = 18–66 (M = 27.4, 
+Median = 21) 
+Gender: Female (N = 75), Male (N = 18), 
+Transgender (N = 2), “not easily 
+categorised” (N = 7) Sample 
+Size = 102Study Design: Qualitative Study 
+Design   
+Method of Analysis: Ethnography 
+Collection: Online survey Understanding 
+the Asexual 
+Self 
+Stigmatisation 
+and the need 
+to Educate 
+Individual 
+Differences
+24 Dawson et al. (2016 ) 
+Country = United 
+KingdomAge: Range = Majority 18–29, otherwise 
+not specified 
+Gender: Not specified 
+Sample Size (Biographical 
+Interview) = 50 
+Sample Size (two-week diaries) = 27Study Design: Qualitative Study 
+Design 
+Method of Analysis: Thematically 
+analysed using software program 
+NVivo10 
+Collection: Biographical interview; 
+two-week diariesStigmatisation 
+and the need 
+to Educate 
+Isolation and 
+Invisibility 
+Individual 
+Differences
+25 Jolene Sloan (2015 ) 
+Country = United 
+StatesAge: Range = 19–34 Gender: Female 
+(N = 10), Male (N = 2), Transgender 
+Woman (N = 2), Transgender Man 
+(N = 1) 
+Sample Size = 15Study Design: Qualitative Study 
+Design 
+Method of Analysis: Qualitative, not 
+specified 
+Collection: Interviews (in-person or 
+via online messaging)Disclosure 
+Negotiating 
+Relationships
+26 Van Houdenhove 
+et al., (2015) 
+Country = BelgiumAge: Range = 20–50 
+20-30 (N = 4), 31–40 (N = 3), 41–50 
+(N = 2)  
+Gender: Female (N = 9)Sample Size = 9Study Design: Qualitative Study 
+Design   
+Method of Analysis: Interpretative 
+Phenomenological Analysis 
+Collection: Semi-structured interviewsUnderstanding 
+the Asexual 
+Self 
+Coming to an 
+Asexual 
+Identity 
+Negotiating 
+Relationships
+27 Vares (2018 ) 
+Country = New 
+ZealandAge: Range = 18–60Gender: Male and 
+Female Participants (not specified) 
+Sample Size = 13Study Design: Qualitative Study 
+Design 
+Method of Analysis: Thematic 
+Discourse Analysis 
+Collection: Interviews (in-person and 
+over phone)Negotiating 
+Relationships 
+Disclosure 
+Isolation and 
+Invisibility
+(Continued )PSYCHOLOGY & SEXUALITY
+ 71
+Table A1. (Continued).
+No. Author Information Sample Information Research DesignRelevant 
+Themes
+28 Vares (2021 ) 
+Country = New 
+ZealandAge: Range = 18–60 
+Gender: Not Specified 
+Sample Size = 15Study Design: Qualitative Study 
+Design  
+Method of Analysis: Thematic Analysis 
+Collection: Open-ended InterviewIsolation and 
+Invisibility 
+Negotiating 
+Relationships 
+Stigmatisation 
+and the need 
+to Educate
+29 Winter-Gray and 
+Hayfield (2021 ) 
+Country = United 
+KingdomAge: Range = 18–35 (M = 22) 
+Gender: Female (N = 33), Transwomen 
+(N = 2), Male (N = 5), Transman 
+(N = 3), Agender (N = 3), Gender-fluid 
+(N = 2) 
+Sample Size = 48Study Design: Qualitative Study 
+Design  
+Method of Analysis: Thematic Analysis 
+Collection: Online SurveyNegotiating 
+Relationships72
+ S. KELLEHER ET AL.

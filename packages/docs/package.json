@@ -1,7 +1,6 @@
 {
   "name": "docs-generator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -24,5 +23,5 @@
     "mermaid": "^10.6.1",
     "vitepress": "1.0.0-rc.34"
   },
-  "packageManager": "pnpm@8.13.1"
+  "packageManager": "pnpm@9.0.4"
 }
